@@ -1,0 +1,126 @@
+{
+  "style_type": "mystery",
+  "style_display_name": "Mystery Atmospheric",
+  "style_description": "Eerie and suspenseful with lingering questions and dread",
+  "novel_id": "00001",
+  "title": "Ghost Blows Out the Light II",
+  "target_audience": "Gen Z and Millennials (18-35) interested in supernatural horror, folklore, urban legends, and high-stakes adventure (e.g., fans of 'The Mummy', 'Tomb Raider', or 'Stranger Things').",
+  "platform": "tiktok",
+  "max_duration_sec": 30,
+  "style_tags": [
+    "mysterious",
+    "atmospheric",
+    "eerie",
+    "psychological",
+    "tomb_raiding"
+  ],
+  "beats": [
+    {
+      "beat_id": "B1",
+      "role": "hook",
+      "duration_sec": 6.0,
+      "source_scenes": [
+        "v01_ch001_s3",
+        "v01_ch001_s4",
+        "v01_ch001_s6"
+      ],
+      "characters": [
+        "Hu Guohua",
+        "Paper Woman"
+      ],
+      "logline": "A paper effigy created to deceive a relative horrifyingly comes to life.",
+      "visual_idea": "Split screen: Applying paint to a paper doll's face / The doll stepping out from behind a curtain, moving like a human.",
+      "key_moments": [
+        "Hu Guohua painting eyes on the white paper figure.",
+        "The paper woman stepping out from the inner room.",
+        "The paper woman's painted lips moving to speak."
+      ],
+      "dialogue_or_text": [
+        "Isn't that the paper figure I made? How did it come to life?"
+      ],
+      "spoiler_level": "light",
+      "reasoning": "The image of a paper doll coming to life is a potent, viral-ready horror hook that immediately establishes the story's supernatural/folklore tone."
+    },
+    {
+      "beat_id": "B2",
+      "role": "conflict",
+      "duration_sec": 8.0,
+      "source_scenes": [
+        "v01_ch018_s6",
+        "v01_ch019_s6"
+      ],
+      "characters": [
+        "Hu Bayi",
+        "Fatty",
+        "Yingzi"
+      ],
+      "logline": "Decades later, the descendants enter a forbidden tomb and disturb the dead.",
+      "visual_idea": "Atmospheric shots of flashlights cutting through darkness, revealing ancient coffins and preserved corpses.",
+      "key_moments": [
+        "Prying open a heavy coffin lid with a crowbar.",
+        "Flashlight beam landing on two preserved children filled with mercury.",
+        "Hu Bayi and Fatty looking terrified."
+      ],
+      "dialogue_or_text": [
+        "TEXT: Some graves should never be opened."
+      ],
+      "spoiler_level": "none",
+      "reasoning": "Transitions from the backstory hook to the main timeline's tomb-raiding plot, showing the creepy, atmospheric exploration."
+    },
+    {
+      "beat_id": "B3",
+      "role": "escalation",
+      "duration_sec": 11.0,
+      "source_scenes": [
+        "v01_ch007_s4",
+        "v01_ch007_s5",
+        "v01_ch011_s2"
+      ],
+      "characters": [
+        "Instructor Li Jian",
+        "Engineer Wang",
+        "Hu Bayi",
+        "Tyrant Salamander"
+      ],
+      "logline": "The tomb fights back with lethal traps and prehistoric monsters.",
+      "visual_idea": "Fast-paced montage of elemental horror and creature attacks.",
+      "key_moments": [
+        "A blue fireball shooting out of the ground.",
+        "A soldier being instantly consumed by blue flames.",
+        "A massive tongue shooting from the water to grab a character.",
+        "The Tyrant Salamander roaring."
+      ],
+      "dialogue_or_text": [
+        "TEXT: Survive the Curse"
+      ],
+      "spoiler_level": "medium",
+      "reasoning": "Escalates the stakes from 'creepy' to 'deadly action', showcasing the variety of threats (magical fire, giant monsters) to appeal to adventure fans."
+    },
+    {
+      "beat_id": "B4",
+      "role": "cliffhanger",
+      "duration_sec": 5.0,
+      "source_scenes": [
+        "v01_ch018_s7"
+      ],
+      "characters": [
+        "Hu Bayi",
+        "Fatty",
+        "Red-haired Corpse"
+      ],
+      "logline": "The ultimate rule of tomb raiding is violated: the candle turns green.",
+      "visual_idea": "A candle flame abruptly changing from yellow to eerie green, followed by a jump-scare lunge.",
+      "key_moments": [
+        "Close up: Candle flame turning green.",
+        "The ancient corpse in the coffin sprouting red hair.",
+        "The corpse lunging directly at the camera/protagonists."
+      ],
+      "dialogue_or_text": [
+        "Ghost blows out the light!"
+      ],
+      "spoiler_level": "medium",
+      "reasoning": "Uses the titular mechanic ('Ghost Blows Out the Light') as a terrifying final image that leaves the viewer needing to know if they survive."
+    }
+  ],
+  "notes_for_storyboard": "Sound design is critical: use the crinkling of paper for the hook, then transition to heavy, echoing thuds and creature roars for the tomb sections. Color grading should shift from the pale white/grey of the paper man scene to the deep blacks, blues (fire), and greens (candle) of the tomb. Keep cuts fast in the escalation beat to mimic the chaos of the raid."
+}

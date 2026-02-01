@@ -1,0 +1,78 @@
+{
+  "status": "completed",
+  "title": "Ghost Blows Out the Light II",
+  "generated_clips": [
+    {
+      "clip_id": "clip_KF_B1_01",
+      "kf_id": "KF_B1_01",
+      "duration": 3.0,
+      "video_url": "/home/charlie/git/flux/backend/output/keyframe_videos00/KF_B1_01.mp4",
+      "thumbnail_url": "/home/charlie/git/flux/backend/output/keyframe_images_flux/KF_B1_01.png",
+      "prompt_used": "[existing]"
+    },
+    {
+      "clip_id": "clip_KF_B1_02",
+      "kf_id": "KF_B1_02",
+      "duration": 3.0,
+      "video_url": "/home/charlie/git/flux/backend/output/keyframe_videos00/KF_B1_02.mp4",
+      "thumbnail_url": "/home/charlie/git/flux/backend/output/keyframe_images_flux/KF_B1_02.png",
+      "prompt_used": "[existing]"
+    },
+    {
+      "clip_id": "clip_KF_B2_01",
+      "kf_id": "KF_B2_01",
+      "duration": 2.5,
+      "video_url": "/home/charlie/git/flux/backend/output/keyframe_videos00/KF_B2_01.mp4",
+      "thumbnail_url": "/home/charlie/git/flux/backend/output/keyframe_images_flux/KF_B2_01.png",
+      "prompt_used": "[existing]"
+    },
+    {
+      "clip_id": "clip_KF_B2_02",
+      "kf_id": "KF_B2_02",
+      "duration": 2.0,
+      "video_url": "/home/charlie/git/flux/backend/output/keyframe_videos00/KF_B2_02.mp4",
+      "thumbnail_url": "/home/charlie/git/flux/backend/output/keyframe_images_flux/KF_B2_02.png",
+      "prompt_used": "[existing]"
+    },
+    {
+      "clip_id": "clip_KF_B2_03",
+      "kf_id": "KF_B2_03",
+      "duration": 1.5,
+      "video_url": "/home/charlie/git/flux/backend/output/keyframe_videos00/KF_B2_03.mp4",
+      "thumbnail_url": "/home/charlie/git/flux/backend/output/keyframe_images_flux/KF_B2_03.png",
+      "prompt_used": "[existing]"
+    },
+    {
+      "clip_id": "clip_KF_B3_01",
+      "kf_id": "KF_B3_01",
+      "duration": 3.0,
+      "video_url": "/home/charlie/git/flux/backend/output/keyframe_videos00/KF_B3_01.mp4",
+      "thumbnail_url": "/home/charlie/git/flux/backend/output/keyframe_images_flux/KF_B3_01.png",
+      "prompt_used": "[existing]"
+    },
+    {
+      "clip_id": "clip_KF_B3_02",
+      "kf_id": "KF_B3_02",
+      "duration": 3.5,
+      "video_url": "/home/charlie/git/flux/backend/output/keyframe_videos00/KF_B3_02.mp4",
+      "thumbnail_url": "/home/charlie/git/flux/backend/output/keyframe_images_flux/KF_B3_02.png",
+      "prompt_used": "[existing]"
+    },
+    {
+      "clip_id": "clip_KF_B3_03",
+      "kf_id": "KF_B3_03",
+      "duration": 3.5,
+      "video_url": "/home/charlie/git/flux/backend/output/keyframe_videos00/KF_B3_03.mp4",
+      "thumbnail_url": "/home/charlie/git/flux/backend/output/keyframe_images_flux/KF_B3_03.png",
+      "prompt_used": "[existing]"
+    },
+    {
+      "clip_id": "clip_KF_B4_01",
+      "kf_id": "KF_B4_01",
+      "duration": 2.5,
+      "video_url": "/home/charlie/git/flux/backend/output/keyframe_videos00/KF_B4_01.mp4",
+      "thumbnail_url": "/home/charlie/git/flux/backend/output/keyframe_images_flux/KF_B4_01.png",
+      "prompt_used": "[existing]"
+    }
+  ]
+}

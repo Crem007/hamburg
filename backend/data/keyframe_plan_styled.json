@@ -1,0 +1,339 @@
+{
+  "novel_id": "00001",
+  "title": "Ghost Blows Out the Light II",
+  "keyframes": [
+    {
+      "kf_id": "KF_B1_01",
+      "beat_id": "B1",
+      "order_in_beat": 1,
+      "suggested_duration_sec": 3.0,
+      "shot_type": "ECU",
+      "camera_angle": "Eye level, macro focus on the brush tip",
+      "composition": "The brush tip dominates the frame, touching the white surface of the paper face where the eye is being drawn.",
+      "action": "A hand holds a fine calligraphy brush, carefully painting a pupil onto the white paper face of a life-sized effigy.",
+      "emotion_tags": [
+        "obsessive",
+        "eerie",
+        "quiet"
+      ],
+      "characters": [
+        "Hu Guohua",
+        "Paper Woman"
+      ],
+      "story_grounding": {
+        "scene_ids": [
+          "v01_ch001_s2"
+        ],
+        "novel_lines": [
+          "painted eyebrows, eyes, a nose, clothes, and hair on the paper figure with watercolors"
+        ]
+      },
+      "dialogue_or_text": "I painted her a face to deceive them all...",
+      "image_prompt": "Hand-painted digital illustration, painterly style with visible brushstrokes and canvas texture. Extreme close-up, macro focus on a fine calligraphy brush tip pressing against the textured, off-white surface of a life-sized Paper Woman effigy. The thin, pale, ink-stained fingers of Hu Guohua act with obsessive precision, applying a wet, glossy black pupil to the paper face. The effigy's skin shows visible grain and slight yellowing, contrasted by crudely painted circles of Warning Red rouge on the cheeks. Lighting is high-contrast chiaroscuro, derived from a nearby flickering kerosene lamp, casting a warm, unsteady sepia glow on the paper fibers while the surrounding area falls into oppressive charcoal darkness. The mood is eerie, quiet, and deeply unsettling."
+    },
+    {
+      "kf_id": "KF_B1_02",
+      "beat_id": "B1",
+      "order_in_beat": 2,
+      "suggested_duration_sec": 3.0,
+      "shot_type": "MS",
+      "camera_angle": "Low angle, looking up at the paper figure",
+      "composition": "The paper woman looms in the foreground, Hu Guohua is visible in the background or side, recoiling.",
+      "action": "Hu Guohua strikes a flint to burn the figure, but recoils in terror as the paper woman stands stiffly and appears to speak.",
+      "emotion_tags": [
+        "horror",
+        "shock",
+        "supernatural"
+      ],
+      "characters": [
+        "Hu Guohua",
+        "Paper Woman"
+      ],
+      "story_grounding": {
+        "scene_ids": [
+          "v01_ch001_s4"
+        ],
+        "novel_lines": [
+          "was about to set the paper figure alight when suddenly it began to speak",
+          "You heartless wretch"
+        ]
+      },
+      "dialogue_or_text": "...but in the shadows, the paper skin began to speak.",
+      "image_prompt": "Hand-painted digital illustration, cinematic composition with visible painterly brushstrokes and slight canvas texture. Low angle medium shot within a claustrophobic, decaying Republican-era courtyard at night. In the foreground, a stiff Paper Woman looms ominously, constructed of yellowed, textured paper stretched over a bamboo frame, featuring crudely painted cinnabar red rouge circles on her cheeks and wet, black ink pupils. Beside her, Hu Guohua, a gaunt and pale man with high cheekbones and the look of an opium addict, wearing a worn dark indigo changshan, recoils in terror. He frantically strikes a flint, the sudden burst of warm, jagged sparks illuminating the volumetric dust motes and casting harsh, flickering shadows on the paper effigy's uncanny face. High-contrast chiaroscuro lighting, sepia and charcoal palette with sudden flashes of firelight against the oppressive darkness, gritty atmosphere, highly detailed textures of dry paper and sweat-slicked skin."
+    },
+    {
+      "kf_id": "KF_B2_01",
+      "beat_id": "B2",
+      "order_in_beat": 1,
+      "suggested_duration_sec": 2.5,
+      "shot_type": "Low",
+      "camera_angle": "Low angle looking up, emphasizing vertical scale",
+      "composition": "The wooden tower dominates the center and upper frame, looming over the viewer; flashlight beams cut from the bottom corners upwards.",
+      "action": "Flashlight beams sweep upwards through the darkness, revealing the massive nine-layered structure packed with bones.",
+      "emotion_tags": [
+        "awe",
+        "terror",
+        "mystery"
+      ],
+      "characters": [
+        "Old Hu",
+        "Ga Wa"
+      ],
+      "story_grounding": {
+        "scene_ids": [
+          "v01_ch009_s4"
+        ],
+        "novel_lines": [
+          "Beneath the earth stood a colossal Wooden Tower",
+          "rising up into nine distinct layers"
+        ]
+      },
+      "dialogue_or_text": "Beneath the earth stands a colossal tomb of cypress.",
+      "image_prompt": "Hand-painted digital illustration with visible painterly brushstrokes and a gritty, canvas-like texture. A dramatic low-angle shot looking up at a colossal nine-layered tomb tower constructed from massive, rotting cypress timbers, looming majestically within a vast subterranean cavern. The structure is intricately packed with piles of dry human skeletons clad in decaying ancient rags, rendered with heightened attention to the textures of dry bone, fibrous roots, and peeling wood. Unsteady warm yellow beams from vintage flashlights cut from the bottom corners upwards through the oppressive charcoal-black darkness, illuminating thick volumetric fog and swirling dust motes. The background features wet, glistening rock faces fading into shadow. The scene utilizes a palette of desaturated earth tones, sepia browns, and slate greys, employing high-contrast chiaroscuro to evoke a sense of awe, terror, and ancient decay."
+    },
+    {
+      "kf_id": "KF_B2_02",
+      "beat_id": "B2",
+      "order_in_beat": 2,
+      "suggested_duration_sec": 2.0,
+      "shot_type": "MLS",
+      "camera_angle": "Eye level, slightly high to show the prostration",
+      "composition": "Ga Wa is low in the foreground, Old Hu stands beside him; the base of the tower looms in the background.",
+      "action": "Ga Wa presses his face to the ground in fear; Old Hu reaches down to pull him up while staring at the tower.",
+      "emotion_tags": [
+        "panic",
+        "desperation"
+      ],
+      "characters": [
+        "Old Hu",
+        "Ga Wa"
+      ],
+      "story_grounding": {
+        "scene_ids": [
+          "v01_ch009_s4"
+        ],
+        "novel_lines": [
+          "Ga Wa, who was prostrating on the ground",
+          "Ga Wa's face was filled with panic"
+        ]
+      },
+      "dialogue_or_text": "Nine layers filled with the skeletons of the ancient dead.",
+      "image_prompt": "Hand-painted digital illustration with visible painterly brushstrokes and a gritty, canvas-like texture. A medium long shot from a slightly high angle within a vast, claustrophobic subterranean cavern. Ga Wa, dressed in a heavy, dirty sheepskin chuba and ethnic sash, lies prostrated face-down on the wet, glistening rocky ground, body tense with superstitious panic. Beside him, Old Hu, a hardened explorer in his mid-50s with deep wrinkles and graying stubble, wears a thick parka and fur hat typical of 1980s expedition gear. Old Hu reaches down to forcefully pull the guide up, but his gaze is fixed upward in shock at the looming base of an ancient, rotting timber structure behind them. High-contrast chiaroscuro lighting dominates, with the unsteady warm beam of Old Hu's vintage flashlight cutting through volumetric fog and oppressive darkness to reveal textures of damp stone and decaying wood. The color palette is composed of desaturated earth tones, slate grey, and charcoal black, emphasizing dust, humidity, and decay."
+    },
+    {
+      "kf_id": "KF_B2_03",
+      "beat_id": "B2",
+      "order_in_beat": 3,
+      "suggested_duration_sec": 1.5,
+      "shot_type": "CU",
+      "camera_angle": "Close up, slightly Dutch angle",
+      "composition": "Focus on a detail of the wood and bone, with a blue light source emerging.",
+      "action": "A mysterious blue fire ignites near a skeleton within the tower structure.",
+      "emotion_tags": [
+        "horror",
+        "danger"
+      ],
+      "characters": [
+        "Old Hu",
+        "Ga Wa"
+      ],
+      "story_grounding": {
+        "scene_ids": [
+          "v01_ch009_s6"
+        ],
+        "novel_lines": [
+          "countless lantern-like Blue Fireballs lit up"
+        ]
+      },
+      "dialogue_or_text": "In the darkness, the Demon Tower awakens.",
+      "image_prompt": "Close up detail of the tower's rough cypress beams and a desiccated human skull. A strange, lantern-like blue fireball is igniting inside the ribcage of a skeleton, casting an eerie, ghostly blue glow onto the surrounding wood and bones. Deep shadows surround the blue light."
+    },
+    {
+      "kf_id": "KF_B3_01",
+      "beat_id": "B3",
+      "order_in_beat": 1,
+      "suggested_duration_sec": 3.0,
+      "shot_type": "Low",
+      "camera_angle": "Low angle from ground level looking up at the victim",
+      "composition": "Dynamic diagonal composition showing the leg being ensnared in the foreground",
+      "action": "A long, fleshy tongue whips out of the water and coils tightly around the Tall Man's leg, pulling him off balance.",
+      "emotion_tags": [
+        "shock",
+        "danger",
+        "suddenness"
+      ],
+      "characters": [
+        "Narrator",
+        "Tall Man",
+        "Gawa"
+      ],
+      "story_grounding": {
+        "scene_ids": [
+          "v01_ch011_s2"
+        ],
+        "novel_lines": [
+          "a blood-red tongue, over two meters long, shot out from the river",
+          "coiling around his legs and knocking him to the ground"
+        ]
+      },
+      "dialogue_or_text": "A blood-red nightmare strikes from the dark river.",
+      "image_prompt": "Hand-painted digital illustration with visible painterly brushstrokes and a slight canvas texture. Low angle shot from ground level looking up, capturing a dynamic diagonal composition. A massive, grotesque, blood-red fleshy tongue whips violently out of dark, murky water, coiling tightly around the heavy boot and calf of a tall explorer. The explorer, dressed in rugged, dirty olive-drab expedition gear and sturdy boots consistent with 1980s Chinese archaeological adventurers, is caught mid-fall, losing balance with a violent splash. High-contrast chiaroscuro lighting defines the scene: the chaotic, unsteady warm beam of a falling vintage flashlight cuts through the oppressive darkness and volumetric fog, illuminating the slimy texture of the tongue and the spray of water droplets. The background consists of claustrophobic, wet cavern walls with glistening rock faces, rendered in desaturated earth tones, slate grey, and charcoal black, with deep shadows hinting at an eerie, spectral green luminescence. The atmosphere is thick with humidity, shock, and sudden danger."
+    },
+    {
+      "kf_id": "KF_B3_02",
+      "beat_id": "B3",
+      "order_in_beat": 2,
+      "suggested_duration_sec": 3.5,
+      "shot_type": "MLS",
+      "camera_angle": "Eye-level, confronting the creature",
+      "composition": "The monster dominates the center frame, looming over the smaller human figures",
+      "action": "The Tyrant Salamander rises from the water, revealing its grotesque anatomy while the team recoils in horror.",
+      "emotion_tags": [
+        "horror",
+        "revulsion",
+        "awe"
+      ],
+      "characters": [
+        "Narrator",
+        "Tall Man",
+        "Gawa"
+      ],
+      "story_grounding": {
+        "scene_ids": [
+          "v01_ch011_s2"
+        ],
+        "novel_lines": [
+          "its head like a frog's, its body like a skinless crocodile's",
+          "Tyrant Salamander, very aggressive and extinct since the Ice Age"
+        ]
+      },
+      "dialogue_or_text": "The Tyrant Salamander. Extinct since the Ice Age.",
+      "image_prompt": "A massive prehistoric monster emerging from underground river water. The creature has a large frog-like head and a glistening body that looks like a skinless crocodile with exposed raw red muscle and veins. In the foreground, explorers in expedition gear look on in terror, illuminated by the warm glow of torches reflecting off the wet cave walls."
+    },
+    {
+      "kf_id": "KF_B3_03",
+      "beat_id": "B3",
+      "order_in_beat": 3,
+      "suggested_duration_sec": 3.5,
+      "shot_type": "MCU",
+      "camera_angle": "Close up, slightly high angle looking down into the struggle",
+      "composition": "Symmetrical struggle, hands gripping the upper and lower jaws",
+      "action": "Two explorers physically wrestle the monster's mouth open to prevent it from biting down.",
+      "emotion_tags": [
+        "desperation",
+        "strain",
+        "bravery"
+      ],
+      "characters": [
+        "Narrator",
+        "Tall Man",
+        "Gawa"
+      ],
+      "story_grounding": {
+        "scene_ids": [
+          "v01_ch011_s3"
+        ],
+        "novel_lines": [
+          "Together, we grappled with the Salamander's gaping jaws from above and below",
+          "determined to prevent that lethal bite"
+        ]
+      },
+      "dialogue_or_text": "We grapple with jaws that could crush bone.",
+      "image_prompt": "Hand-painted digital illustration with visible painterly brushstrokes and a gritty, canvas-like texture. Medium close-up, slightly high angle looking down into a desperate struggle. Two pairs of rugged, gloved hands physically wrestle the gaping, slimy jaws of a massive subterranean creature; one pair forces the upper mandible up, emerging from the sleeve of a weathered olive-green military greatcoat (Hu Bayi), while the other thick, powerful hands (Wang Kaixuan) pull the lower jaw down. The creature's maw is filled with jagged teeth and thick, viscous saliva glistening in harsh, unsteady flashlight beams. In the periphery, Hu Bayi's sharp features and Wang Kaixuan's round, burly face are visible, grimacing with extreme physical exertion, skin coated in heavy sweat and cave grime. High-contrast chiaroscuro lighting cuts through the claustrophobic darkness and volumetric fog. Palette of desaturated earth tones, sepia, and charcoal, with gory 'Warning Red' accents inside the creature's mouth. Cinematic composition, atmospheric and tense, not a photograph."
+    },
+    {
+      "kf_id": "KF_B4_01",
+      "beat_id": "B4",
+      "order_in_beat": 1,
+      "suggested_duration_sec": 2.5,
+      "shot_type": "CU",
+      "camera_angle": "Eye level with the candle, close distance",
+      "composition": "A solitary candle dominates the foreground right, with the deep shadows of the tomb stretching into the background.",
+      "action": "The candle flame flickers unnaturally and turns a vivid, eerie green color before beginning to dim.",
+      "emotion_tags": [
+        "suspense",
+        "ominous",
+        "supernatural"
+      ],
+      "characters": [
+        "Hu Bayi",
+        "Fatty",
+        "Yingzi"
+      ],
+      "story_grounding": {
+        "scene_ids": [
+          "v01_ch018_s7"
+        ],
+        "novel_lines": [
+          "The flame was emitting a strange, greenish glow",
+          "candle in the corner had silently snuffed out"
+        ]
+      },
+      "dialogue_or_text": "When the ghost blows out the light...",
+      "image_prompt": "Hand-painted digital illustration with visible painterly brushstrokes and a slight gritty canvas texture. A close-up cinematic shot of a solitary wax candle positioned in the foreground right on a rough, damp stone slab inside a decaying ancient tomb. The candle flame burns with a vivid 'Spectral Green' luminescence, flickering unnaturally and beginning to dim, casting eerie, cold light across the wet, glistening rock faces and peeling textures of the walls. The lighting is high-contrast chiaroscuro, with the spectral green glow fighting against the oppressive, desaturated charcoal black shadows and heavy volumetric fog of the background. The atmosphere is thick with dust and supernatural suspense."
+    },
+    {
+      "kf_id": "KF_B4_02",
+      "beat_id": "B4",
+      "order_in_beat": 2,
+      "suggested_duration_sec": 2.5,
+      "shot_type": "MS",
+      "camera_angle": "High angle looking down into the coffin",
+      "composition": "The open coffin fills the frame, revealing the corpse inside.",
+      "action": "The dried purple skin of the corpse is rapidly growing thick red bristles, transforming into a beast.",
+      "emotion_tags": [
+        "horror",
+        "disgust",
+        "shock"
+      ],
+      "characters": [
+        "Hu Bayi",
+        "Fatty",
+        "Yingzi"
+      ],
+      "story_grounding": {
+        "scene_ids": [
+          "v01_ch018_s6",
+          "v01_ch018_s7"
+        ],
+        "novel_lines": [
+          "purple-hued, desiccated skin had... sprouted a thick layer of red hair"
+        ]
+      },
+      "dialogue_or_text": "...the ancient dead awaken to feed.",
+      "image_prompt": "Hand-painted digital illustration with visible painterly brushstrokes and a slight canvas-like texture. High-angle medium shot looking down into a rotting ancient wooden coffin that fills the frame. Inside lies the Red-Haired Corpse, a terrifying withered humanoid with dried, soy-purple skin. Patches of stiff, wire-like bright cinnabar-red bristles are actively sprouting from its grimacing face and claw-like hands, conveying visceral horror and disgust. The corpse clutches two ancient jade discs against its chest. High-contrast chiaroscuro lighting creates a claustrophobic atmosphere, with unsteady warm flashlight beams cutting through the oppressive darkness and volumetric dust to sharply illuminate the gruesome transformation. The palette is dominated by desaturated sepia and slate grey, contrasting with the shocking \"Warning Red\" of the growing hair. Gritty, cinematic composition."
+    },
+    {
+      "kf_id": "KF_B4_03",
+      "beat_id": "B4",
+      "order_in_beat": 3,
+      "suggested_duration_sec": 3.0,
+      "shot_type": "Low",
+      "camera_angle": "Low angle, tilting up at the creature",
+      "composition": "The monster is mid-air leaping toward the camera/characters, dominating the upper frame.",
+      "action": "The red-haired monster leaps from the coffin while Hu Bayi and Fatty swing shovels in defense.",
+      "emotion_tags": [
+        "terror",
+        "panic",
+        "action"
+      ],
+      "characters": [
+        "Hu Bayi",
+        "Fatty",
+        "Yingzi"
+      ],
+      "story_grounding": {
+        "scene_ids": [
+          "v01_ch018_s7"
+        ],
+        "novel_lines": [
+          "It looked like a fiery red great ape",
+          "leaped out of the coffin",
+          "swung our engineer soldier's shovels"
+        ]
+      },
+      "dialogue_or_text": "No one leaves this tomb alive.",
+      "image_prompt": "Hand-painted digital illustration with visible painterly brushstrokes and a gritty, canvas-like texture. Low-angle cinematic composition tilting up at a terrifying Red-Haired Corpse leaping mid-air from a rotting wooden coffin, dominating the upper frame; the monster features withered soy-purple skin, stiff wire-like bright red bristles, and claw-like hands. In the foreground, Hu Bayi, wearing a dirty olive-green military jacket with messy windblown hair, and Wang Kaixuan (Fatty), burly in a striped telnyashka and open work jacket, swing military engineering shovels upward in panic. Yingzi, wearing a sheepskin vest, is visible in the periphery recoiling in terror. The setting is a claustrophobic tomb chamber with wet, glistening rock faces and swirling dust. High-contrast chiaroscuro lighting creates deep shadows, with unsteady warm beams from dropped flashlights illuminating the \"Warning Red\" of the creature against desaturated sepia and slate grey surroundings."
+    }
+  ]
+}

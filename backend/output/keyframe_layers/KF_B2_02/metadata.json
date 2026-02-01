@@ -1,0 +1,23 @@
+{
+  "source_image": "/home/charlie/git/flux/key_code/main/keyframe_images_flux/KF_B2_02.png",
+  "kf_id": "KF_B2_02",
+  "num_layers": 4,
+  "layers": [
+    {
+      "index": 0,
+      "file": "layer_00.png"
+    },
+    {
+      "index": 1,
+      "file": "layer_01.png"
+    },
+    {
+      "index": 2,
+      "file": "layer_02.png"
+    },
+    {
+      "index": 3,
+      "file": "layer_03.png"
+    }
+  ]
+}

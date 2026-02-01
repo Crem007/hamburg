@@ -1,0 +1,2179 @@
+{
+  "novel_id": "00001",
+  "title": "Ghost Blows Out the Light II",
+  "author": "Real Overlord",
+  "language": "en",
+  "metadata": {
+    "language": "en",
+    "name": "Ghost Blows Out the Light II",
+    "author": "Real Overlord",
+    "categories": [
+      "Mystery"
+    ],
+    "labels": [
+      "Adventure Survival",
+      "Tomb Raiding",
+      "Mystery",
+      "Mythical Legends"
+    ],
+    "words": 667680,
+    "type": "1",
+    "summary": "The hit web series \"Return to the Ruins of the South Sea\" is based on its original novel! The enigma of life and death cycles through the ages, the vanished civilizations of millennia past, the ancient relics buried in dust. A colossal dragon lies coiled upon the vast expanse of land, guarding all that remains. Mighty rivers flow, sands whirl, and seas turn into mulberry fields—what secrets are concealed here? Souls of life entombed wander and struggle, but where is the passage, the gateway to eternal life? A group of explorers stumbles upon these unknown mysteries, gradually unveiling the hidden legends behind them. \"Candle in the Tomb II\"",
+    "freeChapters": 50,
+    "originBookName": "鬼吹灯II",
+    "bookCode": "00001",
+    "recommend": 419100,
+    "totalChapters": 427
+  },
+  "chapters": [
+    {
+      "chapter_id": "v01_ch001",
+      "chapter_title": "Chapter 1: Paper Man",
+      "volume_name": "Jingjue Ancient City",
+      "scenes": [
+        {
+          "scene_id": "1",
+          "chapter": "v01_ch001",
+          "brief": "Hu Guohua, born into a wealthy family of landlords, squanders his substantial inheritance on gambling and opium until he becomes completely destitute.",
+          "original_text": "My grandfather, Hu Guohua, hailed from the Hu family, which was renowned throughout the neighborhood as a lineage of prominent landlords. After the family assets were divided, Hu Guohua received a substantial inheritance, sufficient for a lifetime of comfort. Yet, he refused to tread a prudent path, which, admittedly, was partly influenced by the societal milieu of the time. Initially, he succumbed to gambling and later developed an addiction to opium, squandering the great fortune until nothing was left.",
+          "characters": [
+            "Hu Guohua"
+          ],
+          "emotion_tags": [
+            "tragic",
+            "decadent",
+            "regret"
+          ],
+          "function": "backstory"
+        },
+        {
+          "scene_id": "2",
+          "chapter": "v01_ch001",
+          "brief": "Desperate for money to fuel his opium addiction, Hu Guohua tricks his uncle into believing he is getting married and commissions a lifelike paper woman to pose as his sick wife.",
+          "original_text": "Hu Guohua devised a scheme to con some money from his uncle. But this time, Hu Guohua lied, claiming he needed funds to take a wife. Upon returning home, he sought out a craftsman skilled in making paper effigies—those burned as offerings for the deceased. He did as requested and crafted a paper woman out of white paste paper for Hu Guohua, then painted eyebrows, eyes, a nose, clothes, and hair on the paper figure with watercolors. From a distance, it looked just like a living person.",
+          "characters": [
+            "Hu Guohua",
+            "Uncle",
+            "Paper Craftsman"
+          ],
+          "emotion_tags": [
+            "scheming",
+            "desperate",
+            "suspense"
+          ],
+          "function": "internal_conflict"
+        },
+        {
+          "scene_id": "3",
+          "chapter": "v01_ch001",
+          "brief": "When the uncle visits and insists on seeing the bride, the paper figure unexpectedly comes to life, greets the uncle, and cooks a meal, leaving Hu Guohua terrified and confused.",
+          "original_text": "As they argued, the curtain to the inner room was suddenly drawn back, and out stepped a woman, fair and clean, with a broad, round face. Hu Guohua's heart skipped a beat. \"Good heavens, isn't that the paper figure I had made? How did it come to life?\" The woman greeted the uncle with a bow, apologizing for not having come out to meet him earlier due to her poor health.",
+          "characters": [
+            "Hu Guohua",
+            "Uncle",
+            "Paper Woman"
+          ],
+          "emotion_tags": [
+            "shock",
+            "fear",
+            "suspense",
+            "uncanny"
+          ],
+          "function": "turning_point"
+        },
+        {
+          "scene_id": "4",
+          "chapter": "v01_ch001",
+          "brief": "Hu Guohua attempts to burn the paper figure, but it reveals itself as a ghost seeking marriage; she tells him of treasure in her grave before he burns her.",
+          "original_text": "He carried the white paper figure out into the courtyard, fetched his flint and fire, and was about to set the paper figure alight when suddenly it began to speak, \"You heartless wretch, I've been nothing but kind to you, and now you want to burn me?\" The white paper figure replied, \"I am indeed a ghost, temporarily residing in this paper figure. Remember, if you ever become so destitute that you can't go on, seek me out at the desolate graves of Thirteen Li Shops. Inside lies my coffin, and within it, there is plenty of gold.\"",
+          "characters": [
+            "Hu Guohua",
+            "Paper Woman"
+          ],
+          "emotion_tags": [
+            "horror",
+            "temptation",
+            "ominous"
+          ],
+          "function": "climax"
+        },
+        {
+          "scene_id": "5",
+          "chapter": "v01_ch001",
+          "brief": "Two years later, after falling into utter destitution, Hu Guohua finally decides to go to the graveyard mentioned by the ghost to find the gold.",
+          "original_text": "Later, when he was so impoverished that he had no other choice, he thought of digging up the grave at Thirteen Li Shops, but each time he refrained, scraping by through borrowing and scrounging. Two years later, when he was utterly destitute and at his wits' end, he finally went to that graveyard—but that is a story for another time.",
+          "characters": [
+            "Hu Guohua"
+          ],
+          "emotion_tags": [
+            "desperate",
+            "resolute"
+          ],
+          "function": "foreshadowing"
+        }
+      ]
+    },
+    {
+      "chapter_id": "v01_ch002",
+      "chapter_title": "Chapter 2: Rat Friends",
+      "volume_name": "Jingjue Ancient City",
+      "scenes": [
+        {
+          "scene_id": "1",
+          "chapter": "v01_ch002",
+          "brief": "Desperate for opium and shunned by his family, Hu Guohua sells his mother's dowry chests to fuel his addiction.",
+          "original_text": "Driven to desperation, Hu Guohua sold the last pair of sandalwood chests in his home for two silver dollars. These chests, part of his mother's dowry, were treasured memories he had been reluctant to pawn. But his nicotine addiction was relentless, and he could no longer afford sentimentality. With the two dollars, he purchased a small piece of opium and hurried home, where he eagerly lit his pipe and collapsed onto the bed.",
+          "characters": [
+            "Hu Guohua"
+          ],
+          "emotion_tags": [
+            "desperation",
+            "relief",
+            "depression"
+          ],
+          "function": "backstory"
+        },
+        {
+          "scene_id": "2",
+          "chapter": "v01_ch002",
+          "brief": "While smoking opium, Hu Guohua discovers a large rat inhaling the smoke and bonds with it over their shared craving.",
+          "original_text": "Squinting, he saw a large rat, old enough to have white whiskers and nearly the size of a cat, inhaling the smoke drifting from Hu Guohua's opium pipe as if it too understood the allure of opium, greedily savoring the fumes. Hu Guohua found this amusing and spoke to the rat, \"You too have a craving for nicotine, it seems we are kindred spirits.\" After taking another puff, he blew smoke rings towards the rat which, sensing no harm from him, raised its head to receive the offered haze. For several days, this rat kept Hu Guohua company in his smoking ritual.",
+          "characters": [
+            "Hu Guohua",
+            "The Rat"
+          ],
+          "emotion_tags": [
+            "amusement",
+            "loneliness",
+            "curiosity"
+          ],
+          "function": "first_meeting"
+        },
+        {
+          "scene_id": "3",
+          "chapter": "v01_ch002",
+          "brief": "When Hu runs out of money and laments to the rat, the creature surprisingly brings him silver dollars to buy more opium.",
+          "original_text": "Distraught and without a plan, he sighed to the rat, \"Oh rat, my pockets are empty, and I can no longer afford opium. I fear we can't continue to indulge in this pleasure.\" The rat, upon hearing his words, looked thoughtful, its eyes shining with intelligence. It then turned and left. At dusk, it returned, placing a silver dollar beside Hu Guohua's pillow.",
+          "characters": [
+            "Hu Guohua",
+            "The Rat"
+          ],
+          "emotion_tags": [
+            "surprise",
+            "joy",
+            "gratitude"
+          ],
+          "function": "rising_action"
+        },
+        {
+          "scene_id": "4",
+          "chapter": "v01_ch002",
+          "brief": "Touched by the rat's generosity, Hu Guohua declares it his sworn brother, and they live together in happiness and abundance.",
+          "original_text": "Recalling an anecdote from his private school days, he said to the rat, \"He who knew Guan Zhong was Bao Shuya. You know of my poverty and have generously bestowed upon me, truly you are my confidant. If you do not disdain it, let us become Sworn Brothers of the Golden Orchid.\" Henceforth, he called the rat 'Brother Rat,' sharing food and opium with it, even arranging a cotton nest on the bed so that the rat could sleep beside him. Living in harmony with a rat was no less remarkable than having a sworn friend.",
+          "characters": [
+            "Hu Guohua",
+            "Brother Rat"
+          ],
+          "emotion_tags": [
+            "warmth",
+            "happiness",
+            "camaraderie"
+          ],
+          "function": "slice_of_life"
+        },
+        {
+          "scene_id": "5",
+          "chapter": "v01_ch002",
+          "brief": "Wang Ergang, a jealous rogue, breaks into Hu's house and maliciously boils the sleeping rat alive.",
+          "original_text": "One day, while Hu Guohua was out buying groceries, Wang Ergang took the opportunity to climb over the wall into his house. He rummaged through Hu Guohua's belongings, looking for any secret. Suddenly, he spotted a large rat asleep on the bed. Without a second thought, Wang Ergang grabbed the rat and threw it into a pot of boiling water on the stove, then clamped the lid down, thinking to himself that he would enjoy watching Hu Guohua's reaction when he returned home to drink the water.",
+          "characters": [
+            "Wang Ergang",
+            "Brother Rat"
+          ],
+          "emotion_tags": [
+            "malice",
+            "cruelty",
+            "tension"
+          ],
+          "function": "external_conflict"
+        },
+        {
+          "scene_id": "6",
+          "chapter": "v01_ch002",
+          "brief": "Discovering his friend boiled to death, an enraged Hu Guohua attacks Wang Ergang with a knife, forcing the rogue to flee.",
+          "original_text": "Wang Ergang hadn't even left the house when Hu Guohua returned, catching him red-handed. Seeing the rat in the pot, boiled alive, Hu Guohua's eyes blazed with fury. He grabbed a kitchen knife and began to hack at Wang Ergang, who was struck multiple times. Fortunately for Wang Ergang, Hu Guohua was weakened by opium, so the blows weren't fatal. Bleeding profusely, Wang Ergang managed to escape to the local Security Team for help.",
+          "characters": [
+            "Hu Guohua",
+            "Wang Ergang",
+            "Brother Rat"
+          ],
+          "emotion_tags": [
+            "rage",
+            "horror",
+            "vengeance"
+          ],
+          "function": "climax"
+        },
+        {
+          "scene_id": "7",
+          "chapter": "v01_ch002",
+          "brief": "Arrested and interrogated, Hu explains his bond with the rat, and his loyalty moves a visiting Warlord to recruit him.",
+          "original_text": "Tears streaming down his face, Hu Guohua sobbed as he recounted the events that had led up to the incident, concluding with a lament: \"...All I ask is that you allow me to return home to bury my Brother Rat, so that even in death, I may rest in peace.\" Before the head of the security team could respond, a warlord standing nearby, moved by Hu's words, addressed him: \"To forget kindness is inhuman, but to remain true to one's heart is righteous. If you can show such loyalty to a rat, how much more to your fellow man? I admire your sense of righteousness and see that you are alone in this world. From now on, follow me and serve as my aide-de-camp.\"",
+          "characters": [
+            "Hu Guohua",
+            "Captain of the Security Team",
+            "Warlord Leader"
+          ],
+          "emotion_tags": [
+            "grief",
+            "sincerity",
+            "turning_point"
+          ],
+          "function": "turning_point"
+        },
+        {
+          "scene_id": "8",
+          "chapter": "v01_ch002",
+          "brief": "Hu Guohua mourns and buries Brother Rat before leaving to join the Warlord's army.",
+          "original_text": "The Warlord Leader ordered his men to whip Wang Ergang as a way to vent Hu Guohua's anger and then released Hu to go home and bury the rat. Hu Guohua placed the rat's body in a wooden box, dug a hole, buried it, and wept for a long time before he went to join the Warlord Leader. As the saying goes: \"When starving, chaff tastes as sweet as honey; when full, even honey loses its sweetness.\" When someone is in dire straits, they are grateful even for a bowl of porridge or a piece of bread from another, let alone the wealth that the rat brought to Hu Guohua.",
+          "characters": [
+            "Hu Guohua",
+            "Brother Rat",
+            "Warlord Leader"
+          ],
+          "emotion_tags": [
+            "sadness",
+            "mourning",
+            "resolution"
+          ],
+          "function": "falling_action"
+        }
+      ]
+    },
+    {
+      "chapter_id": "v01_ch003",
+      "chapter_title": "Chapter 3: The Ominous Corpse of the Desolate Grave",
+      "volume_name": "Jingjue Ancient City",
+      "scenes": [
+        {
+          "scene_id": "1",
+          "chapter": "v01_ch003",
+          "brief": "Destitute and suffering from opium withdrawal, Hu Guohua decides to rob a solitary grave mentioned by a spirit to survive.",
+          "original_text": "He pondered his situation, realizing this was no way to live. The meager supply of food and opium would last but three to five days at most. It was then he recalled the words of the wraith attached to the paper effigy of a woman. She had told him, when he could no longer scrape by, to seek out a solitary grave without a tombstone in the Thirteen Li Shops' desolate cemetery. Steeling his heart, on a night with a faint moon, he lit a lantern and, carrying an iron shovel, made his way to the Thirteen Li Shop Cemetery.",
+          "characters": [
+            "Hu Guohua"
+          ],
+          "emotion_tags": [
+            "desperation",
+            "resolve"
+          ],
+          "function": "inciting_incident"
+        },
+        {
+          "scene_id": "2",
+          "chapter": "v01_ch003",
+          "brief": "Hu Guohua opens the coffin and is attacked by a reanimated corpse that rips out and eats his heart, enslaving him.",
+          "original_text": "The corpse opened her eyes, emitting a chilling, sinister light that struck Hu Guohua, freezing him to the core as if he had fallen into an ice cave. With a cold sneer, the corpse spoke, 'You truly are blinded by greed.' She tore open his clothes and with a slash of her long nails, a fresh, beating heart burst forth from Hu Guohua's chest. The corpse snatched it up and swallowed it whole, blood and all, without even a chew. The corpse, perched atop the upright coffin, addressed Hu Guohua coldly, 'You are now my puppet.'",
+          "characters": [
+            "Hu Guohua",
+            "Female Corpse"
+          ],
+          "emotion_tags": [
+            "horror",
+            "shock",
+            "terror"
+          ],
+          "function": "turning_point"
+        },
+        {
+          "scene_id": "3",
+          "chapter": "v01_ch003",
+          "brief": "While taking a girl he bought to be sacrificed to the demon, Hu Guohua is intercepted by Mr. Sun, who reveals Hu's heartless state.",
+          "original_text": "Upon seeing Hu Guohua, Mr. Sun noticed a faint black aura enveloping him. After a quick calculation, he was taken aback and urgently stopped Hu Guohua, asking, 'Sir, where are you hastening to in such a rush?' Mr. Sun, raising his voice, demanded, 'I have but one question for you, walking corpse: where is your heart and liver?' At these words, Hu Guohua felt as if struck by a thunderbolt and immediately knelt, begging Mr. Sun to save his life.",
+          "characters": [
+            "Hu Guohua",
+            "Mr. Sun",
+            "Little Cui"
+          ],
+          "emotion_tags": [
+            "guilt",
+            "fear",
+            "hope"
+          ],
+          "function": "introduction_of_new_character"
+        },
+        {
+          "scene_id": "4",
+          "chapter": "v01_ch003",
+          "brief": "Mr. Sun uses a paper effigy with a donkey's hoof to trick and destroy the corpse demon, saving Hu Guohua.",
+          "original_text": "Suddenly, the corpse let out a strange cry and tore Little Cui's body to shreds. At that moment, Little Cui revealed her true form; she was actually a paper effigy, a decoy created by Mr. Sun who had already secured the real Little Cui elsewhere. The heart that the female corpse had consumed belonged to a black donkey's hoof hidden inside the paper effigy—a substance notorious for warding off evil. She howled to the sky as her clothes disintegrated into ash, her body turning into a pool of blood. Mr. Sun, watching from afar, rushed over and extracted a chicken egg-sized Crimson Elixir Pill from the skeleton, instructing Hu Guohua to swallow it.",
+          "characters": [
+            "Hu Guohua",
+            "Mr. Sun",
+            "Female Corpse",
+            "Little Cui"
+          ],
+          "emotion_tags": [
+            "suspense",
+            "triumph",
+            "relief"
+          ],
+          "function": "climax"
+        },
+        {
+          "scene_id": "5",
+          "chapter": "v01_ch003",
+          "brief": "The demon's skull attacks Mr. Sun with corpse qi before they burn the coffin; Hu Guohua becomes Mr. Sun's disciple.",
+          "original_text": "As they were about to seal the coffin, the skull suddenly leapt up, opening its jaws to spew a cloud of black mist at Mr. Sun. Caught off guard, Mr. Sun was enveloped by the chilling corpse qi, feeling a surge of discomfort in his chest. He instructed Hu Guohua to gather some dry wood and set the large vermilion lacquered coffin ablaze. Mr. Sun later cured Hu Guohua of his nicotine addiction using a secret remedy and taught him some basic skills in Feng Shui and fortune-telling.",
+          "characters": [
+            "Hu Guohua",
+            "Mr. Sun"
+          ],
+          "emotion_tags": [
+            "danger",
+            "regret"
+          ],
+          "function": "falling_action"
+        },
+        {
+          "scene_id": "6",
+          "chapter": "v01_ch003",
+          "brief": "Years later, on his deathbed, Mr. Sun leaves the incomplete 'Sixteen-Character Yin-Yang Feng Shui Secret Technique' to Hu Guohua.",
+          "original_text": "However, Mr. Sun never fully recovered from the chilling corpse poison that had penetrated his bones after being sprayed with corpse qi. On his deathbed, Mr. Sun summoned Hu Guohua and said, 'We have shared a bond as master and disciple, but I regret not having the chance to teach you my true skills. Here is an ancient text, the Sixteen-Character Yin-Yang Feng Shui Secret Technique. It's an incomplete volume, only half of the original, with minor techniques for Feng Shui and tomb seeking.'",
+          "characters": [
+            "Hu Guohua",
+            "Mr. Sun"
+          ],
+          "emotion_tags": [
+            "sadness",
+            "gratitude",
+            "poignant"
+          ],
+          "function": "backstory"
+        },
+        {
+          "scene_id": "7",
+          "chapter": "v01_ch003",
+          "brief": "The narrator Hu Bayi describes his family's downfall during the Cultural Revolution and his departure to Inner Mongolia with the heirloom book.",
+          "original_text": "My grandfather was dragged out for a public denouncement parade as an 'Evil Being.' Being advanced in years, his frail limbs couldn't endure the harsh treatment, and he passed away after only a couple of struggles. Leaving home by train, no one came to see us off. I took with me only the Sixteen-Character Yin-Yang Feng Shui Secret Technique, the book I had hidden in the public toilet's ceiling. I didn't know the content of the book, but it was the only thing left from my family.",
+          "characters": [
+            "Hu Bayi",
+            "Hu Guohua",
+            "Wang Kaixuan"
+          ],
+          "emotion_tags": [
+            "melancholy",
+            "nostalgia",
+            "resilience"
+          ],
+          "function": "exposition"
+        }
+      ]
+    },
+    {
+      "chapter_id": "v01_ch004",
+      "chapter_title": "Chapter 4: The Ancient Tomb in the Mountains",
+      "volume_name": "Jingjue Ancient City",
+      "scenes": [
+        {
+          "scene_id": "1",
+          "chapter": "v01_ch004",
+          "brief": "Hu Bayi and Fatty attempt to harvest honey from a massive beehive to gift their host family, but the operation turns chaotic when the hive falls.",
+          "original_text": "Unexpectedly, the hive was enormous, larger than any we had ever poked, all combined. From a distance, it resembled a limbless calf hanging from the tree, with a dark swarm of giant bees buzzing in and out, their droning deafening to the ears. After four or five stabs, the huge nest fell to the ground with a thud. Countless Giant Hornets immediately buzzed out, forming a dark cloud overhead with a menacing hum. Fatty and I quickly built a protective Fire Wall with mud around the burning grass to prevent a Mountain Wildfire.",
+          "characters": [
+            "Hu Bayi",
+            "Fatty",
+            "Chestnut Yellow"
+          ],
+          "emotion_tags": [
+            "suspense",
+            "humor",
+            "excitement"
+          ],
+          "function": "slice_of_life"
+        },
+        {
+          "scene_id": "2",
+          "chapter": "v01_ch004",
+          "brief": "After escaping the hornets in a river, Fatty cuts his arm on a piece of Song Dynasty porcelain, foreshadowing the area's history, before they enjoy a feast of roasted rabbit.",
+          "original_text": "I found half a broken porcelain bowl, its style and bluish-green patterns reminiscent of the Northern Song dynasty blue-and-white porcelain once collected by my grandfather. To come across such a relic in this deep mountain, old forest stirred a sense of familiarity within me. I coated the skinned hare with a thick layer of honey and set it to roast over the flames. I had never tasted anything so delicious in my life, almost swallowing my own fingers in the process. It seems that in life, some things cannot be measured simply by what is gained or lost.",
+          "characters": [
+            "Hu Bayi",
+            "Fatty",
+            "Chestnut Yellow"
+          ],
+          "emotion_tags": [
+            "relief",
+            "joy",
+            "warm"
+          ],
+          "function": "foreshadowing"
+        },
+        {
+          "scene_id": "3",
+          "chapter": "v01_ch004",
+          "brief": "Back at the village, the group learns about the legend of the Empress Dowager's tomb and discovers that Tian Xiaomeng has gone missing in the dangerous Lama Gully.",
+          "original_text": "The elders say that the mountain is the site of an empress dowager's tomb from the Liao and Jin Dynasties, filled with buried treasures. Wang Juan took a moment to catch her breath before explaining. It turned out that the other female Educated Youth, Tian Xiaomeng, had received a letter from home informing her that her mother was hospitalized with a severe case of asthma. Having heard that the Bodhisattva Fruit, which grew in Lama Gully, had miraculous effects on asthma, Tian Xiaomeng set out alone to gather it. Wang Juan cried, \"I couldn't stop her. We must hurry to find her.\"",
+          "characters": [
+            "Hu Bayi",
+            "Fatty",
+            "Swallow",
+            "Wang Juan",
+            "Tian Xiaomeng"
+          ],
+          "emotion_tags": [
+            "anxiety",
+            "suspense",
+            "worry"
+          ],
+          "function": "inciting_incident"
+        },
+        {
+          "scene_id": "4",
+          "chapter": "v01_ch004",
+          "brief": "While searching for Tian Xiaomeng, Hu Bayi recognizes the Ox Heart Mountain as a rare Feng Shui formation known as 'Nine Dragons Guarding the Jade Lotus', validating his grandfather's teachings.",
+          "original_text": "Amidst them towered an oddly shaped colossal peak, resembling the heart of an ox. With a flicker of thought, I recalled a passage from the tattered book left behind by my grandfather that I would peruse in my idle moments. The nine waterfalls divided the hill like a blooming lotus, indeed, it was referred to as Nine Dragons Guarding the Jade Lotus. At that moment, a vague feeling washed over me. My grandfather's Sixteen-Character Yin-Yang Feng Shui Secret Technique was not mere superstitious nonsense; the contents of the book held genuine substance.",
+          "characters": [
+            "Hu Bayi",
+            "Fatty",
+            "Yanzi"
+          ],
+          "emotion_tags": [
+            "awe",
+            "realization",
+            "intrigue"
+          ],
+          "function": "character_development"
+        },
+        {
+          "scene_id": "5",
+          "chapter": "v01_ch004",
+          "brief": "The group is ambushed by a ferocious Human Bear; despite inflicting severe wounds with their hunting rifles, the beast remains aggressive, forcing them to climb trees for safety.",
+          "original_text": "Swallow's face turned ashen. \"Climb a tree, quickly—it's a Human Bear.\" Wounded and enraged, the Human Bear stuffed its intestines back inside with its massive paws, then charged at Swallow in a fury. My hand trembled at the thought, but I gritted my teeth and pulled the trigger. The Human Bear, now blind in one eye and with blood covering its face, half an eyeball still dangling from the socket, became even more frenzied.",
+          "characters": [
+            "Hu Bayi",
+            "Fatty",
+            "Swallow",
+            "Chestnut Yellow"
+          ],
+          "emotion_tags": [
+            "terror",
+            "tension",
+            "action"
+          ],
+          "function": "external_conflict"
+        },
+        {
+          "scene_id": "6",
+          "chapter": "v01_ch004",
+          "brief": "The bear attempts to climb Hu Bayi's tree, leading to a desperate standoff where Hu Bayi blasts it down with an overloaded gun, followed by a humorous exchange of 'revolutionary' last words with Fatty.",
+          "original_text": "I cursed inwardly, \"Who the hell told me bears can't climb trees? This is a deathtrap!\" I poured nearly half a horn's worth of powder into the muzzle. The beast fell from the tree, a dozen meters up, and crashed heavily to the ground, which was thick with deep layers of dead branches and leaves. I bellowed to my two comrades: \"Looks like I'm about to meet Marx. Sorry, comrades, I'm going ahead to save seats for you.\"",
+          "characters": [
+            "Hu Bayi",
+            "Fatty",
+            "Swallow"
+          ],
+          "emotion_tags": [
+            "desperation",
+            "dark_humor",
+            "climax"
+          ],
+          "function": "climax"
+        },
+        {
+          "scene_id": "7",
+          "chapter": "v01_ch004",
+          "brief": "Hu Bayi wakes up alone and follows lights into a cave where he finds Tian Xiaomeng and unwittingly watches a Shadow Puppet Play performed by ghosts.",
+          "original_text": "I began to fantasize that the master of those lights was an old hunter living in the mountains, with a white beard, kind and gentle, warm and hospitable. There, the space inside the mountain opened up before me, and my eyes were suddenly met with clarity. Indeed, it was unmistakably Tian Xiaomeng. The Shadow Puppet Play, originating from the Han and Tang dynasties and also known as 'lamp shadow play,' was a popular folk art. I was so entranced that my throat became parched, and I reached for the teacup on the table to quench my thirst.",
+          "characters": [
+            "Hu Bayi",
+            "Tian Xiaomeng"
+          ],
+          "emotion_tags": [
+            "mystery",
+            "eeriness",
+            "confusion"
+          ],
+          "function": "supernatural_event"
+        },
+        {
+          "scene_id": "8",
+          "chapter": "v01_ch004",
+          "brief": "Hu Bayi realizes the true nature of the gathering when the old lady's head falls off, prompting a frantic escape from the collapsing cave, after which he learns it was likely a 'Ghost Market'.",
+          "original_text": "The breaking of the cup was of little consequence, but with it, the old lady's head tumbled to the ground as well. I knew in my heart that we had encountered a ghost. Seizing Tian Xiaomeng's hand, I dashed towards the cave's exit. When I awoke, three days had passed. I shared my ordeal with Yanzi's father, who suggested that I might have stumbled upon a \"Ghost Market,\" also known as \"Ghost Play.\"",
+          "characters": [
+            "Hu Bayi",
+            "Tian Xiaomeng",
+            "Yanzi",
+            "Fatty"
+          ],
+          "emotion_tags": [
+            "horror",
+            "relief",
+            "shock"
+          ],
+          "function": "resolution"
+        }
+      ]
+    },
+    {
+      "chapter_id": "v01_ch005",
+      "chapter_title": "Chapter 5 Kangba Kunlun Non-freezing Spring",
+      "volume_name": "Jingjue Ancient City",
+      "scenes": [
+        {
+          "scene_id": "1",
+          "chapter": "v01_ch005",
+          "brief": "The narrator visits Uncle Chen, his father's old comrade, who arranges for him to enlist in the army through a backdoor connection.",
+          "original_text": "Uncle Chen, my father's comrade-in-arms, was the chief of general staff at the military district. In that brutal campaign, my father, enduring temperatures below minus forty degrees, carried the severely wounded Uncle Chen from a pile of dead bodies. Uncle Chen asked me what branch of the military I wanted to join, and I told him I wished to be in the Air Force—I heard the pilots get good meals. Uncle Chen chuckled and gave me a playful knock on the head: \"You think flying a fighter jet is that easy?\" I replied that I'd rather not return to work at a Government Agency; I preferred to stay with the troops on the ground, as office life wasn't for me.",
+          "characters": [
+            "Narrator",
+            "Uncle Chen",
+            "Father"
+          ],
+          "emotion_tags": [
+            "warm",
+            "nostalgic",
+            "hopeful"
+          ],
+          "function": "backstory"
+        },
+        {
+          "scene_id": "2",
+          "chapter": "v01_ch005",
+          "brief": "The narrator leaves his friends behind to join the army and is deployed to the harsh Kunlun Mountains for a secret engineering mission.",
+          "original_text": "I wanted to go back to Ganggang Camp and say goodbye to Little Fat Swallow and the rest, but time didn't allow it, so I wrote them a letter instead. I was conscripted into a unit that was about to be re-equipped as an armored division. Our task was top secret: to construct a massive Underground Battle Readiness Facility deep within the Kunlun Mountains. Although the soldiers were not explicitly informed of the facility's purpose, anyone with a bit of sense could probably guess. My squad was chosen as the Advance Small Squad to first head south, passing through the Non-freezing Spring, and enter the vast depths of the Kunlun Mountains.",
+          "characters": [
+            "Narrator",
+            "Little Fat Swallow"
+          ],
+          "emotion_tags": [
+            "relief",
+            "determination",
+            "secret"
+          ],
+          "function": "exposition"
+        },
+        {
+          "scene_id": "3",
+          "chapter": "v01_ch005",
+          "brief": "The squad arrives at the Non-freezing Spring, a beautiful but dangerous site where soldiers had previously drowned, prompting strict rules against bathing.",
+          "original_text": "The Non-freezing Spring is located on the northern bank of the Kunlun River, also known as Kunlun Spring. Orders from above have been relayed, instructing soldiers not to bathe there, as the local Tibetan people regard the Non-freezing Spring as a divine source and often worship its waters. Three soldiers who bathed in the spring drowned in its depths, allegedly due to the high concentration of nitrate sulfur in the water. Their graves are situated not far from here, at a military post, where our small squad's final supply station is also located.",
+          "characters": [
+            "Narrator"
+          ],
+          "emotion_tags": [
+            "suspense",
+            "mysterious",
+            "ominous"
+          ],
+          "function": "foreshadowing"
+        },
+        {
+          "scene_id": "4",
+          "chapter": "v01_ch005",
+          "brief": "Suffering from altitude sickness, the narrator contemplates the majestic landscape and recalls his grandfather's book about the mythical significance of the Kunlun Mountains.",
+          "original_text": "Finally, we entered the Kunlun Mountains, where nearly everyone suffered severe altitude sickness. The majestic Kunlun, with its thousands of hills and ravines, seemed like an endless procession of silver-gray giant dragons. While marching, I remembered the book passed down from my grandfather. It said that the Kunlun peaks, rising five thousand meters, are the ancestors of all dragon veins in the world. it is said that the mausoleum of the hero king of Tibetan mythology, King Gesar, and the gateway to the Demon Nation are both hidden within these undulating peaks.",
+          "characters": [
+            "Narrator",
+            "Grandfather"
+          ],
+          "emotion_tags": [
+            "awe",
+            "mysterious",
+            "tense"
+          ],
+          "function": "world_building"
+        }
+      ]
+    },
+    {
+      "chapter_id": "v01_ch006",
+      "chapter_title": "Chapter 6: 100 Skins of Beautiful Women",
+      "volume_name": "Jingjue Ancient City",
+      "scenes": [
+        {
+          "scene_id": "1",
+          "chapter": "v01_ch006",
+          "brief": "The Vanguard Team camps in harsh mountain weather; the technicians suffer severely from altitude sickness while the soldiers manage to cope and cook food.",
+          "original_text": "The Vanguard Team's mission was to find a suitable construction site, accompanied by two engineers, a surveyor, and a geological prospector. After abandoning their vehicle, they trekked through the mountains for two full days. As dusk approached on the second day, they pitched their tents for rest under a sky heavy with leaden clouds, from which sparse snowflakes began to drift down, hinting at a heavy snowfall come nightfall. The four engineering technicians, all bespectacled intellectuals, included one woman among them. They were far from acclimated to the harsh highland environment, gasping for breath inside the tent, their labored breathing causing concern for their frail physiques.",
+          "characters": [
+            "Hu Bayi",
+            "Instructor",
+            "Squad Leader",
+            "Medic",
+            "Engineering technicians"
+          ],
+          "emotion_tags": [
+            "hardship",
+            "concern",
+            "slice_of_life"
+          ],
+          "function": "setting_the_scene"
+        },
+        {
+          "scene_id": "2",
+          "chapter": "v01_ch006",
+          "brief": "Soldiers ask Hu Bayi to tell a story to pass the time; he agrees, recalling a horror story while noting the Squad Leader's dislike for him.",
+          "original_text": "After resting a bit, Xiao Lin said to me, \"Brother Hu, you're a city soldier, knowledgeable about many things. Tell us some stories, will you?\" The tall fellow chimed in, \"Yeah, Old Hu, I just love listening to you talk. It's so engaging. Anyway, we've got to hold a platoon meeting later and can't rest just yet. So go on, tell the comrades a story.\"",
+          "characters": [
+            "Hu Bayi",
+            "Xiao Lin",
+            "Tall lad",
+            "Gawa",
+            "Squad Leader"
+          ],
+          "emotion_tags": [
+            "camaraderie",
+            "internal_conflict"
+          ],
+          "function": "character_interaction"
+        },
+        {
+          "scene_id": "3",
+          "chapter": "v01_ch006",
+          "brief": "Hu Bayi narrates a gruesome tale about a student named Zhao Pingping who is tricked by a spy ring and captured to be skinned for explosives.",
+          "original_text": "The old woman sneered, \"You're at death's door, so I'll let you die knowing the truth. We are all undercover agents, and we peel the skins of women to pack them with explosives. We needed to prepare a hundred human skins, and today we finally have enough.\" She handed a sharp skinning knife to one of her subordinates, instructing him to begin the gruesome task. The knife, specially designed for skinning, was placed at the top of Zhao Pingping's head, and amidst her screams...",
+          "characters": [
+            "Hu Bayi",
+            "Zhao Pingping",
+            "Officer",
+            "Old woman"
+          ],
+          "emotion_tags": [
+            "horror",
+            "suspense",
+            "gore"
+          ],
+          "function": "storytelling"
+        },
+        {
+          "scene_id": "4",
+          "chapter": "v01_ch006",
+          "brief": "The Squad Leader interrupts Hu Bayi's story right at the climax to scold him and begin a formal squad meeting.",
+          "original_text": "I was just getting to the exciting part when the Second Squad Leader interrupted me, \"Enough, enough. Hu Bayi, you're at it again with your wild stories. Right now, our squad is in the middle of conducting a squad affairs discussion meeting. You love to talk, don't you? Well, this time we'll let you have your say—is it relevant or not to the Book Alliance?\"",
+          "characters": [
+            "Hu Bayi",
+            "Squad Leader"
+          ],
+          "emotion_tags": [
+            "tension",
+            "annoyance",
+            "humor"
+          ],
+          "function": "external_conflict"
+        }
+      ]
+    },
+    {
+      "chapter_id": "v01_ch007",
+      "chapter_title": "Chapter 7: The Great Glacier",
+      "volume_name": "Jingjue Ancient City",
+      "scenes": [
+        {
+          "scene_id": "1",
+          "chapter": "v01_ch007",
+          "brief": "The squad lightens the mood by singing 'Erlang Mountain' amidst the harsh snow of the Kunlun Mountains.",
+          "original_text": "I rose to my feet, snapped to attention, and mimicked the Squad Leader's accent as I responded: \"No, no, why should it always fall to me? It's Lamu Tso's turn, that little Ga Wa should have a say for once.\" The Second Squad Leader said, \"Little Hutong Zhi, why do you always have such odd things to say?\" \"Erlang Mountain, no matter how high you tower, the People's Liberation Army's ironclad men, resolved to forge ahead, unafraid of the wind's howl, unafraid of the snow's flutter, determined to build that highway, all the way to Tibet.\" As the snow in the sky fell thicker and thicker, the chorus of a dozen soldiers resonated amidst the swirling white of the Kunlun Mountains.",
+          "characters": [
+            "Narrator",
+            "Second Squad Leader",
+            "Lamu Tso",
+            "Ga Wa",
+            "Instructor Li Jian"
+          ],
+          "emotion_tags": [
+            "warm",
+            "humorous",
+            "patriotic"
+          ],
+          "function": "slice_of_life"
+        },
+        {
+          "scene_id": "2",
+          "chapter": "v01_ch007",
+          "brief": "Instructor Li Jian gives an inspiring speech about the unit's honor and the secret mission ahead before the squad rests.",
+          "original_text": "Finally, the instructor addressed everyone: \"Like all of you, this is my first time at the Kunlun Mountains. The conditions here are indeed very harsh, the environment extremely severe.\" \"But my comrade brothers, we are no ordinary troops. Our unit is known as the Heroic Bayonet Brigade.\" \"The Central Party Committee has entrusted us with this Glorious Task, showing immense trust in our sixth company.\" \"Get some rest early today. Our Small Squad will be crossing the Great Glacier tomorrow.\"",
+          "characters": [
+            "Instructor Li Jian",
+            "Narrator",
+            "Second Squad Leader"
+          ],
+          "emotion_tags": [
+            "serious",
+            "inspiring"
+          ],
+          "function": "plot_setup"
+        },
+        {
+          "scene_id": "3",
+          "chapter": "v01_ch007",
+          "brief": "While descending the treacherous Great Glacier in silence to avoid avalanches, an engineer slips and falls to his death.",
+          "original_text": "On the third morning of our venture into the mountains, Small Squad arrived at the Great Glacier. Before departure, an engineer had warned us that while marching beneath the glacier, any loud noise could trigger an avalanche, burying us alive. While descending from the glacier into the valley, an engineer from Beijing lost his footing and plummeted. We found his mangled body in the oasis beneath the glacier. Luo Ning buried her head deep into Engineer Wang's chest, sobbing in agony.",
+          "characters": [
+            "Narrator",
+            "Engineer from Beijing",
+            "Luo Ning",
+            "Engineer Wang",
+            "Ga Wa"
+          ],
+          "emotion_tags": [
+            "tension",
+            "tragic"
+          ],
+          "function": "external_conflict"
+        },
+        {
+          "scene_id": "4",
+          "chapter": "v01_ch007",
+          "brief": "A mysterious blue fire beetle emerges from the ground during the burial, and Engineer Wang is instantly incinerated when he touches it.",
+          "original_text": "After a few scoops, a blue fireball, the size of a basketball, suddenly shot out from the pit he had dug. Engineer Wang, driven by curiosity, leaned in closer, pushing up his thick, nearsighted glasses, and excitedly pinched the beetle, which resembled a red flame, between his fingers. In an instant, the fierce fire engulfed his entire body. Engineer Wang was consumed by the blue flames, and large blisters quickly formed on his skin before bursting open. His screams, as he was burned by the fire demon, echoed through the valley, sending chills down everyone's spine.",
+          "characters": [
+            "Narrator",
+            "Engineer Wang",
+            "Luo Ning",
+            "Second Squad Leader",
+            "Instructor Li Jian"
+          ],
+          "emotion_tags": [
+            "suspense",
+            "horror",
+            "shock"
+          ],
+          "function": "inciting_incident"
+        },
+        {
+          "scene_id": "5",
+          "chapter": "v01_ch007",
+          "brief": "The instructor kills Wang to end his suffering and prevent an avalanche, but catches fire himself and commits suicide to save the squad.",
+          "original_text": "Without hesitation, the instructor took a Type 56 semi-automatic rifle... drove the military dagger into Engineer Wang's heart. As the instructor was about to withdraw the bayonet from his chest, the enchanting blue flames flared violently, traveling up the bayonet and along the rifle's barrel. Before anyone could comprehend what had happened, the instructor was already enveloped in the blue inferno. Just as he was about to pull the trigger, the instructor, engulfed in flames, suddenly spoke: \"I order none of you to shoot. Take the comrades and leave this place immediately.\" He silenced himself by turning the glowing-hot bayonet and plunging it into his own heart.",
+          "characters": [
+            "Instructor Li Jian",
+            "Engineer Wang",
+            "Second Squad Leader",
+            "Narrator"
+          ],
+          "emotion_tags": [
+            "tragic",
+            "angst",
+            "desperate",
+            "heroic"
+          ],
+          "function": "climax"
+        },
+        {
+          "scene_id": "6",
+          "chapter": "v01_ch007",
+          "brief": "With the beetle threatening the survivors, the Second Squad Leader orders a retreat and charges at the creature to buy time.",
+          "original_text": "Suddenly, from the ashes where Engineer Wang had been incinerated, a blue fireball shot out. \"Comrades, the instructor has sacrificed himself, and now I am your captain. I order you all to make it back alive, do you understand?\" I understood what the Second Squad Leader intended to do; he was planning to sacrifice himself to buy time for the others to retreat. The Second Squad Leader pushed my hand away, \"You little Hu, you're not even a league member.\" Before his words were fully spoken, he had already charged towards the hovering fireball without looking back.",
+          "characters": [
+            "Second Squad Leader",
+            "Narrator",
+            "Fire Beetle"
+          ],
+          "emotion_tags": [
+            "tension",
+            "tragic",
+            "heroic"
+          ],
+          "function": "cliffhanger"
+        }
+      ]
+    },
+    {
+      "chapter_id": "v01_ch008",
+      "chapter_title": "Chapter 8 Avalanche",
+      "volume_name": "Jingjue Ancient City",
+      "scenes": [
+        {
+          "scene_id": "1",
+          "chapter": "v01_ch008",
+          "brief": "A blue fireball insect splits and attacks the squad, setting three members on fire; in the ensuing panic, Xiao Lin accidentally shoots and kills three other comrades.",
+          "original_text": "One of the three Blue Fireballs lunged directly at the Second Squad Leader, while the other two darted into the crowd like lightning. Including the Second Squad Leader, Chef Old Zhao, and Communications Officer Xiao Lin, three were struck by the fireballs. In the agony of being bitten by the searing flames, his semi-automatic rifle discharged unintentionally with a series of heavy reports—tat-dang, tat-dang, tat-dang, tat-dang. Amidst the heavy gunfire, three comrades were struck by stray bullets and fell into pools of their own blood.",
+          "characters": [
+            "Second Squad Leader",
+            "Chef Old Zhao",
+            "Communications Officer Xiao Lin",
+            "Instructor"
+          ],
+          "emotion_tags": [
+            "horror",
+            "panic",
+            "tragedy"
+          ],
+          "function": "disaster_trigger"
+        },
+        {
+          "scene_id": "2",
+          "chapter": "v01_ch008",
+          "brief": "Realizing the dire situation and the risk of an avalanche from continued gunfire, the narrator makes a split-second decision to shoot the three burning comrades to end their suffering and the chaos.",
+          "original_text": "Upon witnessing the delirious Xiao Lin's rifle misfire, which accidentally killed three comrades, I didn't have time to think. Gritting my teeth, I raised my rifle and with three bursts, I brought down Xiao Lin, the Second Squad Leader, and Old Zhao, all of whom were still struggling painfully in the fire. The gunshot sounds of the rifle bullets echoed through the valley. I had not yet freed myself from the torment of having shot my own comrades; their voices and smiles before death haunted my mind, blurring my consciousness.",
+          "characters": [
+            "I",
+            "Xiao Lin",
+            "Second Squad Leader",
+            "Old Zhao"
+          ],
+          "emotion_tags": [
+            "guilt",
+            "angst",
+            "ruthlessness",
+            "tension"
+          ],
+          "function": "tough_decision"
+        },
+        {
+          "scene_id": "3",
+          "chapter": "v01_ch008",
+          "brief": "The gunfire triggers the dreaded avalanche, while Gawa manages to shoot down the fireballs emerging from the corpses.",
+          "original_text": "The weather was clear, and the sun hung in the sky, shimmering with dazzling light—snowfall was impossible at that moment. The instant I touched the snowflake, a dreadful realization sank in my heart: the avalanche had finally begun. At that moment, from the still-burning bodies of the three fallen comrades, a Blue Fireball rose from each. Gawa, whose marksmanship was the most accurate among the small squad members, raised his rifle without aiming and fired three shots. Each bullet struck the center of a fireball.",
+          "characters": [
+            "I",
+            "Gawa"
+          ],
+          "emotion_tags": [
+            "dread",
+            "suspense",
+            "urgency"
+          ],
+          "function": "external_conflict"
+        },
+        {
+          "scene_id": "4",
+          "chapter": "v01_ch008",
+          "brief": "As the massive avalanche descends, the five survivors run for their lives and jump into a newly opened fissure just before the snow engulfs them.",
+          "original_text": "Big Guy yanked me and shouted, \"Old Hu's Mother, stop gawping and leg it!\" The avalanche was upon us too quickly, a sweeping force that shook the valley with the energy of collapsing snow. Yet, fortune favors the brave, and the violent tremors from the avalanche cracked open a steep, downward-sloping fissure in the mountain slope before us. With the snowstorm almost upon us, we had no time to think. We charged into the crevice.",
+          "characters": [
+            "Big Guy",
+            "I",
+            "Little Wa",
+            "Worker Liu",
+            "Luo Ning"
+          ],
+          "emotion_tags": [
+            "panic",
+            "action",
+            "desperation"
+          ],
+          "function": "climax"
+        },
+        {
+          "scene_id": "5",
+          "chapter": "v01_ch008",
+          "brief": "Trapped in darkness under the snow, Big Guy checks on the survivors; everyone is alive, but Worker Liu has suffered a severe leg fracture.",
+          "original_text": "Then, a massive slab of snow rolled down from above, sealing the crevice perfectly and kicking up a cloud of snowflakes that made us cough violently. After a long time, someone finally spoke up with a thick Northeastern Accent—it was Big Guy. He asked, \"Anyone who can still breathe, make a sound.\" Little Wa responded and took out a flashlight, illuminating our surroundings. Worker Liu lay beside him, unconscious, his eyes tightly shut. His left shinbone was broken, the white of the bone protruding out.",
+          "characters": [
+            "Big Guy",
+            "I",
+            "Little Wa",
+            "Worker Liu",
+            "Luo Ning"
+          ],
+          "emotion_tags": [
+            "relief",
+            "pain",
+            "dark"
+          ],
+          "function": "aftermath"
+        }
+      ]
+    },
+    {
+      "chapter_id": "v01_ch009",
+      "chapter_title": "Chapter 9: Nine-layered Demon Tower",
+      "volume_name": "Jingjue Ancient City",
+      "scenes": [
+        {
+          "scene_id": "1",
+          "chapter": "v01_ch009",
+          "brief": "The survivors mourn Worker Liu but cannot bury him due to the threat of fire bugs, settling for a stone cairn instead.",
+          "original_text": "The tall man felt for Worker Liu's breath and, with a shake of his hand, despairingly uttered, \"It's over, he's not breathing.\" Crawling over, I touched Worker Liu's carotid artery. He was indeed gone—no heartbeat. I sighed and said to the tall man, \"Let's bury Worker Liu.\" I took out an Engineer Soldier spade to dig a hole, but Ga Wa stopped me, pointing to the ground: \"Bugs, fire.\"",
+          "characters": [
+            "The tall man",
+            "I (Old Hu)",
+            "Worker Liu",
+            "Ga Wa",
+            "Luo Ning"
+          ],
+          "emotion_tags": [
+            "grief",
+            "despair",
+            "caution"
+          ],
+          "function": "internal_conflict"
+        },
+        {
+          "scene_id": "2",
+          "chapter": "v01_ch009",
+          "brief": "The group holds a makeshift memorial service for their fallen comrades, reciting revolutionary quotes to cope with their loss.",
+          "original_text": "I helped Luo Ning to her feet, and together we observed a moment of silence for Worker Liu and the other comrades. In those times, any occasion warranted quoting the Selected Works of Mao Zedong. I led with, \"The sky is blanketed with white; the urgency of marching through the snow is palpable.\" The other three joined in chorus, \"Over hills and under mountains, the wind unfurls the red flag across the pass.\" We then raised our right fists in oath, \"We wish our great leader longevity without boundaries, longevity without boundaries.\"",
+          "characters": [
+            "Luo Ning",
+            "I (Old Hu)",
+            "The tall man",
+            "Ga Wa"
+          ],
+          "emotion_tags": [
+            "solemn",
+            "patriotic",
+            "melancholic"
+          ],
+          "function": "slice_of_life"
+        },
+        {
+          "scene_id": "3",
+          "chapter": "v01_ch009",
+          "brief": "Facing starvation and dwindling supplies, the team treks deep underground and discovers a vast cavern filled with glimmering mica.",
+          "original_text": "We walked in the darkness for over ten hours, and as we proceeded, the terrain descended, and the underground space expanded. Finally, the terrain leveled out, and the sound of a rushing underground river reached our ears, suggesting that one wasn't far away. Seeing no further descent, I shone my flashlight around, looking for an upward path, when suddenly, the beam reflected off the rock wall, creating countless faint glimmers, like light on shattered mirrors. Luo Ning exclaimed, \"Mica!\" The rest of us, not knowing what mica was, mistook her alarm for a sign of emergency and quickly shielded Luo Ning behind us.",
+          "characters": [
+            "I (Old Hu)",
+            "Luo Ning",
+            "The tall man",
+            "Ga Wa"
+          ],
+          "emotion_tags": [
+            "anxiety",
+            "wonder",
+            "suspense"
+          ],
+          "function": "transition"
+        },
+        {
+          "scene_id": "4",
+          "chapter": "v01_ch009",
+          "brief": "The group discovers the terrifying Nine-layered Demon Tower filled with skeletons and fire beetles, which Ga Wa worships in fear.",
+          "original_text": "Beneath the earth stood a colossal Wooden Tower, constructed from thousands of massive timbers. The body of the tower was made of thousand-year-old cypress wood, rising up into nine distinct layers. Each level was filled with the desiccated skeletons of people in ancient garb, men and women, young and old. I went over to the little Ga Wa, who was prostrating on the ground, and pulled him up. Ga Wa's face was filled with panic as he replied in halting Chinese, \"Hu, this little bear... oh, let me explain, you pulled me over... the Larados Nine-layered Demon Tower.\"",
+          "characters": [
+            "I (Old Hu)",
+            "Ga Wa",
+            "The tall man",
+            "Luo Ning"
+          ],
+          "emotion_tags": [
+            "fear",
+            "awe",
+            "mystery"
+          ],
+          "function": "reveal_truth"
+        },
+        {
+          "scene_id": "5",
+          "chapter": "v01_ch009",
+          "brief": "Ga Wa is injured in a burial trench, leading Hu to deduce the tomb's Feng Shui layout and decide to risk passing the tower to reach the underground river.",
+          "original_text": "Shining their flashlights, we saw that Ga Wa's foot had been impaled by a sharp white bone, which had pierced right through his shoe and foot, causing blood to gush out. The two parallel sacrificial trenches flanked the wooden tower structure of the tomb, forming a 'twin dragons playing with a pearl' configuration. If my conjecture was correct, then the map of this underground world was already in my mind. However, this would mean taking a risk by passing beneath the Nine-layered Demon Tower—a gamble for survival amidst certain death. After discussing it among the four of us, we decided that despite the dangers, it was worth the risk to try.",
+          "characters": [
+            "Ga Wa",
+            "I (Old Hu)",
+            "Luo Ning",
+            "The tall man"
+          ],
+          "emotion_tags": [
+            "pain",
+            "determination",
+            "intellectual"
+          ],
+          "function": "turning_point"
+        },
+        {
+          "scene_id": "6",
+          "chapter": "v01_ch009",
+          "brief": "While sneaking past the tower, the tall man shoots a harmless salamander in panic, awakening the deadly fire beetles and trapping the group.",
+          "original_text": "Having painstakingly edged past the Nine-layered Demon Tower and walked less than two hundred paces forward, the ground beneath my feet suddenly gave way, as if I had stepped on some enormous creature. Perhaps a soldier's only true companion is his rifle, and acting on instinct, he raised his gun and fired a burst. The beetles in the Nine-layered Demon Tower were evidently stirred by the gunshots, as countless lantern-like Blue Fireballs lit up. The flames grew larger and larger, with hundreds of fireballs hurling towards us. I quickly pressed down on his hand, \"Throw one, and save the last as an Honor Bullet for us.\"",
+          "characters": [
+            "The tall man",
+            "I (Old Hu)",
+            "Luo Ning"
+          ],
+          "emotion_tags": [
+            "terror",
+            "panic",
+            "desperation"
+          ],
+          "function": "climax"
+        }
+      ]
+    },
+    {
+      "chapter_id": "v01_ch010",
+      "chapter_title": "Chapter 10: Underground Lake",
+      "volume_name": "Jingjue Ancient City",
+      "scenes": [
+        {
+          "scene_id": "1",
+          "chapter": "v01_ch010",
+          "brief": "Out of ammunition and surrounded by swarming fireballs, the team prepares to use their last grenade for a suicide pact to avoid burning to death.",
+          "original_text": "The big man discarded his rifle and drew his last Hand Grenade, shouting to me, \"Old Hu, it's time. Are we doing this?\" Luo Ning and I supported the little one, forming a circle with the big man's Hand Grenade at the center. I watched the Hand Grenade before me, knowing that once he pulled the pin, we would all go down together in mere seconds. Steeling my heart, I was ready to signal the big man to detonate the Hand Grenade.",
+          "characters": [
+            "Old Hu",
+            "Big Man",
+            "Luo Ning",
+            "Ga Wa"
+          ],
+          "emotion_tags": [
+            "desperation",
+            "tension",
+            "angst"
+          ],
+          "function": "internal_conflict"
+        },
+        {
+          "scene_id": "2",
+          "chapter": "v01_ch010",
+          "brief": "Luo Ning hears the sound of water, realizing there is an underground river nearby, and the group makes a desperate sprint to jump into the lake just as the fireballs strike.",
+          "original_text": "Luo Ning, who had already braced herself for death with eyes tightly shut, suddenly had a realization. She stood up abruptly, pulling us back, \"Listen to the roar of the water! We must be near an Underground River. Let's jump in!\" Time was of the essence, and with thousands of Blue Fireballs closing in, the four desperate survivors sprinted towards the sound of the roaring water. I leaped into the lake.",
+          "characters": [
+            "Old Hu",
+            "Luo Ning",
+            "Big Man",
+            "Ga Wa"
+          ],
+          "emotion_tags": [
+            "hope",
+            "urgency",
+            "pain"
+          ],
+          "function": "turning_point"
+        },
+        {
+          "scene_id": "3",
+          "chapter": "v01_ch010",
+          "brief": "In the water, Luo Ning rescues the drowning Ga Wa, and the group dives deep to avoid a massive suicidal dive-bomb attack by the fire insects.",
+          "original_text": "It turned out that Ga Wa had never swum in his life. Luo Ning, who had seen what happened, dove in and brought him to the surface. But his smile soon froze as thousands of blue-glowing fireballs gathered into a massive flame and swooshed down toward us. He quickly ducked back under the water. The fireball, several meters in diameter, touched the lake surface, causing steam to rise.",
+          "characters": [
+            "Old Hu",
+            "Luo Ning",
+            "Ga Wa",
+            "Big Man"
+          ],
+          "emotion_tags": [
+            "suspense",
+            "relief",
+            "fear"
+          ],
+          "function": "action"
+        },
+        {
+          "scene_id": "4",
+          "chapter": "v01_ch010",
+          "brief": "Recovering on the shore, the group uses Luo Ning's flashlight to regroup and eats raw fish caught by the Big Man to regain strength.",
+          "original_text": "Suddenly, there was light. Luo Ning emerged from the water, wiping her face. The big man dove back into the lake and returned with a fish skewered on his bayonet. Three of us wolfed down a large fish with ravenous hunger and felt a lingering craving for more, so the big guy dived back into the lake to fish. Armed with Luo Ning's L-shaped flashlight, I discovered an opening in the underground lake through which water flowed out.",
+          "characters": [
+            "Old Hu",
+            "Luo Ning",
+            "Big Man",
+            "Ga Wa"
+          ],
+          "emotion_tags": [
+            "relief",
+            "calm"
+          ],
+          "function": "slice_of_life"
+        },
+        {
+          "scene_id": "5",
+          "chapter": "v01_ch010",
+          "brief": "The group decides to swim downstream through the cave to find an exit, but their journey is interrupted when a massive shadow chases them in the water.",
+          "original_text": "Unwilling to linger, the three of us, all strong swimmers, supported the child between us and swam downstream toward the far end of the cave. We had only gotten halfway through our conversation when Luo Ning cried out in alarm, \"Look behind us! Is there some animal? It seems like a water monster.\" The water churned, and a massive shadow approached rapidly from beneath the surface.",
+          "characters": [
+            "Old Hu",
+            "Luo Ning",
+            "Big Man",
+            "Ga Wa"
+          ],
+          "emotion_tags": [
+            "anxiety",
+            "suspense",
+            "terror"
+          ],
+          "function": "cliffhanger"
+        }
+      ]
+    },
+    {
+      "chapter_id": "v01_ch011",
+      "chapter_title": "Chapter 11: Tyrant Salamander",
+      "volume_name": "Jingjue Ancient City",
+      "scenes": [
+        {
+          "scene_id": "1",
+          "chapter": "v01_ch011",
+          "brief": "The team is swept by a powerful undercurrent into a scalding subterranean river surrounded by volcanic activity.",
+          "original_text": "The undercurrents beneath the river's surface and the force of the Dark Surge grew ever stronger, beyond our control. We were swept helplessly forward by the torrent, while the enormous creature behind us followed as if it were our shadow. Below lay a vast underground river, its waters scaldingly hot. On both sides, protruding stone orifices emitted jets of white, high-temperature gas. It seemed we had reached the subterranean volcanic zone Luo Ning had mentioned.",
+          "characters": [
+            "Narrator",
+            "Luo Ning",
+            "Gawa",
+            "Tall Man"
+          ],
+          "emotion_tags": [
+            "tension",
+            "suspense",
+            "awe"
+          ],
+          "function": "external_conflict"
+        },
+        {
+          "scene_id": "2",
+          "chapter": "v01_ch011",
+          "brief": "While surveying the area, the Tall Man is attacked by a massive tongue, revealing a colossal Tyrant Salamander that Luo Ning identifies as a prehistoric species.",
+          "original_text": "But as he turned to come back, a blood-red tongue, over two meters long, shot out from the river, coiling around his legs and knocking him to the ground. Thanks to Gawa's quick reflexes, he stabbed the monstrous tongue with his bayonet. It looked exactly like the salamander that the tall man had previously shot dead—its head like a frog's, its body like a skinless crocodile's. Luo Ning was pale, trembling as he replied, \"I said the last one was just a Tyrant Salamander, very aggressive and extinct since the Ice Age.\"",
+          "characters": [
+            "Narrator",
+            "Tall Man",
+            "Gawa",
+            "Luo Ning"
+          ],
+          "emotion_tags": [
+            "horror",
+            "shock",
+            "fear"
+          ],
+          "function": "reveal_truth"
+        },
+        {
+          "scene_id": "3",
+          "chapter": "v01_ch011",
+          "brief": "The group engages in a desperate fight with the monster; Gawa is grabbed by the beast, forcing the Narrator and the Tall Man to wrestle its jaws open.",
+          "original_text": "The Tyrant Salamander bellowed and hissed, confronting us with bared teeth and brandished claws. Before we could even make a move, it swept its massive tail, knocking the little guy to the ground and coiling around him. In the face of imminent danger, the tall fellow and I lunged forward. Together, we grappled with the Salamander's gaping jaws from above and below, determined to prevent that lethal bite. Wounded and enraged, the Tyrant Salamander thrashed about with such strength that it flung all three of us to the ground.",
+          "characters": [
+            "Narrator",
+            "Tall Man",
+            "Gawa"
+          ],
+          "emotion_tags": [
+            "panic",
+            "bravery",
+            "pain"
+          ],
+          "function": "external_conflict"
+        },
+        {
+          "scene_id": "4",
+          "chapter": "v01_ch011",
+          "brief": "Realizing they are outmatched, the team attempts to flee up the volcanic rocks, but the Narrator is cornered by the pursuing salamander and prepares for a final stand.",
+          "original_text": "To think that we could fight this colossal Tyrant Salamander with just three bayonets was like trying to shatter a rock with an egg. To shake off the pursuing behemoth, we climbed the steep volcanic rock at the edge of the river valley, scrambling higher and higher. Glancing down, I saw the Tyrant Salamander scaling the cliff like a giant lizard, mere meters away from me. Its long tongue almost licked my boots. Cursing, I freed one hand to draw my bayonet, ready for a cornered beast's last stand—if I was to die, I would take the monster down with me.",
+          "characters": [
+            "Narrator",
+            "Tall Man",
+            "Gawa",
+            "Luo Ning"
+          ],
+          "emotion_tags": [
+            "desperation",
+            "suspense",
+            "hopelessness"
+          ],
+          "function": "climax"
+        }
+      ]
+    },
+    {
+      "chapter_id": "v01_ch012",
+      "chapter_title": "Chapter 12 Earthquake",
+      "volume_name": "Jingjue Ancient City",
+      "scenes": [
+        {
+          "scene_id": "1",
+          "chapter": "v01_ch012",
+          "brief": "Prompted by Luo Ning, Hu uses a grenade to blow up the tyrant salamander, killing the creature instantly.",
+          "original_text": "The big guy pulled out the hand grenade: \"Old Hu, catch!\" He lobbed it towards me from above. I looked down and aimed for the tyrant salamander's gaping mouth, throwing the hand grenade into it. There was a muffled boom—the grenade exploded inside its mouth. The explosion blew its head inside out, the remains falling beneath the rock wall.",
+          "characters": [
+            "Luo Ning",
+            "Hu",
+            "Big guy",
+            "Tyrant Salamander"
+          ],
+          "emotion_tags": [
+            "tension",
+            "relief"
+          ],
+          "function": "action_climax"
+        },
+        {
+          "scene_id": "2",
+          "chapter": "v01_ch012",
+          "brief": "An earthquake shakes the cavern and activates the volcano, but also splits open a fissure revealing the sky, offering a path to escape.",
+          "original_text": "Suddenly, the mountain wall shook violently. The water in the underground river surged, filling the air with the scent of sulfur, and waves of heat rushed up from below. Luo Ning was ecstatic: \"It's the sky! It's the sky!\" The seismic activity from the underground volcano had caused an earthquake, splitting open a large fissure above us.",
+          "characters": [
+            "Hu",
+            "Luo Ning",
+            "Gawa",
+            "Big guy"
+          ],
+          "emotion_tags": [
+            "fear",
+            "hope",
+            "urgency"
+          ],
+          "function": "turning_point"
+        },
+        {
+          "scene_id": "3",
+          "chapter": "v01_ch012",
+          "brief": "During the desperate climb to the surface, Gawa sacrifices himself to ensure Luo Ning is pulled to safety just before the fissure closes.",
+          "original_text": "The tall man and I pulled with all our might, but no matter how strong we were, it was impossible to haul them up together. Just then, Gawa released the belt and pushed Luo Ning up from below while we pulled from above, and in one go, we yanked her out of the fissure. When I thought to throw the belt down again to save Gawa, a violent tremor hit, and the earth closed in again, trapping Gawa alive in its midst. In the sub-zero temperatures, our coats and hats long gone, the three of us, forgetting the cold and clad only in thin clothes, wept and futilely dug at the earth and stones with our hands and bayonets.",
+          "characters": [
+            "Hu",
+            "Tall man",
+            "Luo Ning",
+            "Gawa"
+          ],
+          "emotion_tags": [
+            "desperation",
+            "tragic",
+            "grief"
+          ],
+          "function": "climax"
+        },
+        {
+          "scene_id": "4",
+          "chapter": "v01_ch012",
+          "brief": "Recovering in the hospital three days later, Hu is praised for his bravery but feels deep sorrow for his fallen comrades.",
+          "original_text": "Three days later, I lay in a bed at the Military District Hospital. The Chief of Staff of the Military Region, holding my hand, offered his warm consolation, \"Comrade Little Hu, you have shown great bravery this time.\" I replied, \"Thank you for your concern, sir. I am holding up alright. But whenever I think of those comrades-in-arms who have left me forever—Xiao Lin, Gawa, the instructor, the Second Squad Leader—this weight in my chest, it's just indescribable.\"",
+          "characters": [
+            "Hu",
+            "Chief of Staff"
+          ],
+          "emotion_tags": [
+            "melancholy",
+            "mourning"
+          ],
+          "function": "resolution"
+        }
+      ]
+    },
+    {
+      "chapter_id": "v01_ch013",
+      "chapter_title": "Chapter 13: Leaving the Troops",
+      "volume_name": "Jingjue Ancient City",
+      "scenes": [
+        {
+          "scene_id": "1",
+          "chapter": "v01_ch013",
+          "brief": "The narrator reflects on the shift from construction work in the Kunlun Mountains to routine training in the Lanzhou Military Region following political changes.",
+          "original_text": "Due to the exigencies of the international situation, my unit was dispatched deep into the Kunlun Mountains for construction work. The harsh environment caused the project progress to lag unexpectedly. At this juncture, the global political landscape was reshuffled. We, the combat engineers who had been drafted midway into our careers, were reassigned back to the field army's combat sequence, under the jurisdiction of the Lanzhou Military Region.",
+          "characters": [
+            "Narrator"
+          ],
+          "emotion_tags": [
+            "monotonous",
+            "resigned"
+          ],
+          "function": "backstory"
+        },
+        {
+          "scene_id": "2",
+          "chapter": "v01_ch013",
+          "brief": "The narrator improvises a speech about revolutionary traditions for new recruits, using a broken iron pot to weave a tall tale about heroic predecessors.",
+          "original_text": "One morning, just as I returned from a meeting at the headquarters, the communications officer Little Liu came running up to me, panting: \"Report to the Company Commander, a platoon of new recruits has arrived today.\" I led the thirty-odd new recruits into the unit's Honor Display Room and pointed to an embroidered banner that read \"Heroic Bayonet Brigade,\" telling them that this was an honor earned by the predecessors of our Sixth Company during the Huaihai Campaign. Then, pointing to a blackened, broken iron pot in a glass case, I narrated to the new recruits: \"Comrades, don't underestimate this old pot.\" Still, I believed I did quite well, enough to hoodwink these new recruits.",
+          "characters": [
+            "Narrator",
+            "Little Liu",
+            "New Recruits"
+          ],
+          "emotion_tags": [
+            "humorous",
+            "cynical"
+          ],
+          "function": "characterization"
+        },
+        {
+          "scene_id": "3",
+          "chapter": "v01_ch013",
+          "brief": "Little Liu praises the narrator's speech but focuses mostly on food, and the narrator sends him to the canteen to grab buns.",
+          "original_text": "Little Liu exclaimed, \"Wow, Company Commander, you speak so wonderfully that I'm drooling over here. When will our unit study the Revolutionary Martyrs and improve our meals a bit?\" Swallowing hard, I flicked Little Liu's forehead and scolded him, \"You didn't catch a word about the revolutionary traditions, just fixated on pork and noodles, eh?\" With an affirmative shout, Little Liu strode briskly, charging towards the canteen. Suddenly remembering something crucial I had neglected to tell him, I called out, \"Pick a few with generous fillings for me!\"",
+          "characters": [
+            "Narrator",
+            "Little Liu"
+          ],
+          "emotion_tags": [
+            "lighthearted",
+            "warm"
+          ],
+          "function": "slice_of_life"
+        },
+        {
+          "scene_id": "4",
+          "chapter": "v01_ch013",
+          "brief": "Alone in his quarters, the narrator studies his family's incomplete heirloom book on Feng Shui, lamenting that half of the knowledge is missing.",
+          "original_text": "After reading it twice, I set the letter aside and picked up the worn book passed down through my family. The experiences of the past few years had sparked a profound interest in Feng Shui, and I would study it whenever I had the chance. The Sixteen-Character Yin-Yang Feng Shui Secret Technique is comprised of the words Man, Buddha, Intimidate, Object, Yang, and Empty. My only regret was that this book contained only the half that discussed the Fengshui Five Elements Tomb Layout Structure. The other half, concerning the Yin Yang Bagua Taiji numbers, had been missing since my grandfather's time.",
+          "characters": [
+            "Narrator"
+          ],
+          "emotion_tags": [
+            "curious",
+            "mystical"
+          ],
+          "function": "foreshadowing"
+        },
+        {
+          "scene_id": "5",
+          "chapter": "v01_ch013",
+          "brief": "An emergency assembly is called, and the entire division is mobilized and transported to the Yunnan Border for the Sino-Vietnamese war.",
+          "original_text": "Suddenly, the air of the military camp was pierced by a series of long and short bugle calls—an emergency assembly. Rows upon rows of troops aligned in orderly columns, and I saw that it wasn't just our battalion assembling—our entire regiment was mustering. We were bewilderedly transported in Iron Can Vehicles all the way to the Yunnan Border, where it finally dawned on us that we were heading into battle. At that moment, many broke down in tears. Meanwhile, Deng Xiaoping, on a visit to the United States, made a startling statement at the White House: \"When children don't listen, they need to be disciplined.\"",
+          "characters": [
+            "Narrator",
+            "Soldiers"
+          ],
+          "emotion_tags": [
+            "tense",
+            "bewildered",
+            "anxious"
+          ],
+          "function": "rising_action"
+        },
+        {
+          "scene_id": "6",
+          "chapter": "v01_ch013",
+          "brief": "After an ambush kills his comrades, the narrator executes two Vietnamese prisoners in a fit of rage, resulting in his discharge from the army.",
+          "original_text": "During a subsequent march, we fell into an ambush by Vietnamese Special Agents. Eight of my soldiers were killed inside the armored vehicle. In a fit of rage, I completely forgot the Three Main Rules of Discipline and the Eight Points for Attention, as well as our military's policy on the treatment of prisoners. I had a Dynamite Bag tied underneath the Vietnamese Woman and made her sit on an Earth Plane. With a demobilization order in hand, I returned to my hometown.",
+          "characters": [
+            "Narrator",
+            "Vietnamese Woman",
+            "Vietnamese Old Man",
+            "Comrades"
+          ],
+          "emotion_tags": [
+            "rage",
+            "tragic",
+            "violent",
+            "regret"
+          ],
+          "function": "turning_point"
+        }
+      ]
+    },
+    {
+      "chapter_id": "v01_ch014",
+      "chapter_title": "Chapter 14: Business",
+      "volume_name": "Jingjue Ancient City",
+      "scenes": [
+        {
+          "scene_id": "1",
+          "chapter": "v01_ch014",
+          "brief": "Hu Bayi has a vivid nightmare about a fierce battle in Vietnam where he commands an attack on a tunnel, which ends with an explosion that wakes him up on a train.",
+          "original_text": "The battle was nearing its end, sporadic gunfire still erupted intermittently, and the battlefield was shrouded in gun smoke. Trenches were chaotically filled with bodies, strewn in every imaginable position. In the tunnel, about six or seven remaining Vietnamese soldiers were trapped. I had my men seal off all the exits. At the far end, I found a large bundle of unexploded cluster grenades.",
+          "characters": [
+            "Hu Bayi",
+            "Vietnamese soldiers"
+          ],
+          "emotion_tags": [
+            "tension",
+            "fear",
+            "relief"
+          ],
+          "function": "backstory"
+        },
+        {
+          "scene_id": "2",
+          "chapter": "v01_ch014",
+          "brief": "Returning to the city, Hu Bayi wanders aimlessly to delay seeing his father and feels disillusioned by the high cost of food compared to his military severance pay.",
+          "original_text": "As dusk fell and twilight embraced the town, I entered a restaurant to grab a bite. The menu prices gave me a start; I hadn't dined out in years, and couldn't believe the cost of food these days—a plate of Yu Xiang Shredded Pork was six yuan! By that reckoning, my demobilization pay of just over three thousand yuan would barely cover five hundred servings of Yu Xiang Shredded Pork. I ordered two bowls of rice and a plate of Kung Pao Chicken, along with a bottle of beer. After ten years of military service, sweating blood, facing life and death, my efforts were apparently worth no more than five hundred plates of Yu Xiang Shredded Pork—a thought that was both laughable and somewhat disheartening.",
+          "characters": [
+            "Hu Bayi",
+            "waitress"
+          ],
+          "emotion_tags": [
+            "disillusionment",
+            "melancholy",
+            "awkwardness"
+          ],
+          "function": "internal_conflict"
+        },
+        {
+          "scene_id": "3",
+          "chapter": "v01_ch014",
+          "brief": "Hu Bayi reunites with his old friend Fatty in the restaurant after recognizing each other through secret code phrases.",
+          "original_text": "Pushing his sunglasses down his nose, he spoke, \"Heaven's King Covers the Earth Tiger.\" The phrase rang a bell, and I automatically responded, \"Pagoda Suppresses River Monster.\" We embraced each other, laughing. \"Little Fatty, bet you didn't expect the Central Red Army to return, huh?\" Fatty, nearly in tears with emotion, exclaimed, \"Old Hu, our various Red Army factions have finally rendezvoused in Shaanbei once again.\"",
+          "characters": [
+            "Hu Bayi",
+            "Fatty"
+          ],
+          "emotion_tags": [
+            "joy",
+            "warm",
+            "nostalgia"
+          ],
+          "function": "first_meeting"
+        },
+        {
+          "scene_id": "4",
+          "chapter": "v01_ch014",
+          "brief": "Hu Bayi rejects a factory job to partner with Fatty selling cassette tapes, but by the eighties, their business is struggling.",
+          "original_text": "The job that the Reconversion Office had arranged for me was a position at a Food Factory as the Deputy Chief of Security Department. Instead, I teamed up with Fatty to venture into business in the north. Time flew swiftly, and before we knew it, the Eighties had arrived. We were both well into our thirties, yet our business was growing increasingly bleak. Far from saving up for marriage, we were struggling just to feed ourselves, often having to ask our families for money to deal with urgent needs.",
+          "characters": [
+            "Hu Bayi",
+            "Fatty",
+            "female student"
+          ],
+          "emotion_tags": [
+            "frustration",
+            "humor"
+          ],
+          "function": "slice_of_life"
+        },
+        {
+          "scene_id": "5",
+          "chapter": "v01_ch014",
+          "brief": "Fleeing from commerce inspectors, Hu Bayi and Fatty accidentally run into the Panjiayuan Antique Market, discovering a hub of vintage goods.",
+          "original_text": "Fatty was about to defend his lineage, claiming his ancestors hailed from Beijing, but before he could finish, he suddenly pointed towards one end of the street and shouted, \"Industry and Commerce are raiding, run!\" We pushed our tricycle and bolted, zigzagging through the streets until we unwittingly found ourselves in Panjiayuan Antique Market. The street was lined with vendors dealing in all things vintage, from Old Emblems and Red Treasure Books that collectors sought, to an assortment of bottles, old clocks, Old Pocket Watches, and Embroidered Shoes once worn by women with Three-inch Golden Lotuses. Piles of old coins, Snuff Bottles, various Antique Furniture, Pipes, calligraphy and paintings, Carved Research Desks, Inks, Brushes, and Yellow Papers, old Pipes, cricket jars, porcelain, Lacquerware, and an array of gold and jade ornaments—if it was old, it was likely to be found here.",
+          "characters": [
+            "Hu Bayi",
+            "Fatty"
+          ],
+          "emotion_tags": [
+            "panic",
+            "curiosity"
+          ],
+          "function": "turning_point"
+        }
+      ]
+    },
+    {
+      "chapter_id": "v01_ch015",
+      "chapter_title": "Chapter 15 Antique Market",
+      "volume_name": "Jingjue Ancient City",
+      "scenes": [
+        {
+          "scene_id": "1",
+          "chapter": "v01_ch015",
+          "brief": "Fatty possesses a mysterious ancient jade pendant heirloom which he considered selling, but Hu Bayi persuaded him to keep it as a family legacy.",
+          "original_text": "Fatty possessed a family heirloom, a jade pendant that he always carried with him. This piece of jade was a gift from a commander of the Northwestern Field Army to his father. Though it was referred to as a jade pendant, its shape was hardly typical—its design was ancient and peculiar, engraved with a mishmash of patterns that resembled both a map and inscriptions, its true purpose unknown. Fatty had thought to sell the jade to raise some capital for business, but I stopped him. \"This is a legacy from your father; don't sell it unless you absolutely must.\"",
+          "characters": [
+            "Fatty",
+            "Hu Bayi"
+          ],
+          "emotion_tags": [
+            "warm",
+            "serious"
+          ],
+          "function": "foreshadowing"
+        },
+        {
+          "scene_id": "2",
+          "chapter": "v01_ch015",
+          "brief": "Over lunch, Fatty expresses guilt for holding Hu Bayi back from a better career, but Hu reveals that he prefers their busy life because idleness triggers traumatic memories of his deceased comrades.",
+          "original_text": "\"I feel like I've dragged you down. Your father was a division commander before he retired and enjoys the benefits of a deputy municipal-level official. You might as well go back and have your old man pull some strings to get you a job in a government agency.\" ... \"Brother, let me tell you something from the heart. If I really wanted a government agency job, I could get one at any time. But I'm afraid to. If I sit still in one place, I can't think of anything else—all I see are my deceased comrades-in-arms, haunting me.\"",
+          "characters": [
+            "Fatty",
+            "Hu Bayi"
+          ],
+          "emotion_tags": [
+            "guilt",
+            "angst",
+            "camaraderie"
+          ],
+          "function": "internal_conflict"
+        },
+        {
+          "scene_id": "3",
+          "chapter": "v01_ch015",
+          "brief": "Hu Bayi and Fatty attract the attention of Big Gold Tooth while selling tapes, and they establish a connection based on shared military backgrounds.",
+          "original_text": "There was a man selling antiques on a street stall nearby. He came over to greet us with a smile, revealing a big gold tooth. As Big Gold Tooth lit my cigarette, he said, \"Gentlemen, selling pop songs at the Panjiayuan Flea Market, I bet no third person in this Four Nine City (Beijing) could've thought of that.\" ... As it turned out, we weren't strangers after all. Big Gold Tooth was from Hainan Island, had been sent down to Yunnan in the past, and his father's generation had settled there during the People's Liberation Army's southern campaign.",
+          "characters": [
+            "Fatty",
+            "Hu Bayi",
+            "Big Gold Tooth"
+          ],
+          "emotion_tags": [
+            "curiosity",
+            "friendly"
+          ],
+          "function": "first_meeting"
+        },
+        {
+          "scene_id": "4",
+          "chapter": "v01_ch015",
+          "brief": "Hu Bayi realizes Big Gold Tooth's father was a grave robber and tests him with the industry slang 'zongzi', which earns Big Gold Tooth's respect and an invitation to discuss business.",
+          "original_text": "Big Gold Tooth's father wasn't any sort of official; he was a folk craftsman of grave robbing who was later conscripted during the Xuzhou-Bengbu Campaign... Digging deeper, I asked Big Gold Tooth, \"Did your old man ever unearth any significant 'zongzi' during his tomb raiding days?\" ... At the mention of this, Big Gold Tooth immediately treated me with newfound respect and insisted on inviting Fatty and me to Dongsi for a mutton hot pot, with the intention of discussing further.",
+          "characters": [
+            "Fatty",
+            "Hu Bayi",
+            "Big Gold Tooth"
+          ],
+          "emotion_tags": [
+            "suspense",
+            "intrigue",
+            "anticipation"
+          ],
+          "function": "inciting_incident"
+        }
+      ]
+    },
+    {
+      "chapter_id": "v01_ch016",
+      "chapter_title": "Chapter 16: Big Gold Tooth",
+      "volume_name": "Jingjue Ancient City",
+      "scenes": [
+        {
+          "scene_id": "1",
+          "chapter": "v01_ch016",
+          "brief": "Hu Bayi and Fatty have dinner with Big Gold Tooth, who tries to get Hu drunk and shows off a gold tooth he claims was pulled from a corpse.",
+          "original_text": "We found an empty table in a corner and sat down. Big Gold Tooth kept pouring me drinks, and I thought to myself that this fellow was probably trying to get me drunk to pry some secrets from me. As we ate and chatted, the conversation turned to the topic of grave robbing. Big Gold Tooth, flashing a grin that showcased his namesake, tapped his gold tooth and said to us, \"Gentlemen, feast your eyes on this. I acquired this gold tooth at Panjiayuan.\"",
+          "characters": [
+            "Hu Bayi",
+            "Fatty",
+            "Big Gold Tooth"
+          ],
+          "emotion_tags": [
+            "wary",
+            "disgust",
+            "humor"
+          ],
+          "function": "character_introduction"
+        },
+        {
+          "scene_id": "2",
+          "chapter": "v01_ch016",
+          "brief": "Big Gold Tooth explains his family's history with earth-smelling techniques, but is left dazzled when Hu Bayi demonstrates superior knowledge of Feng Shui for tomb locating.",
+          "original_text": "Big Gold Tooth's father, before being conscripted by the Kuomintang, had apprenticed with a master grave robber from Hunan, surnamed Cai, and knew a great deal about the craft. In essence, this method was not too dissimilar from using a Luoyang Shovel; the difference lay in using the nose instead of the eyes. I joked that his ancestral skills were rather trendy. I mentioned that I had heard from my elders about grave robbing. Big Gold Tooth was dazzled by my elaborate talk and held me in even higher esteem.",
+          "characters": [
+            "Hu Bayi",
+            "Big Gold Tooth"
+          ],
+          "emotion_tags": [
+            "admiration",
+            "pride",
+            "fascination"
+          ],
+          "function": "establishing_competence"
+        },
+        {
+          "scene_id": "3",
+          "chapter": "v01_ch016",
+          "brief": "Big Gold Tooth encourages Hu Bayi to become a tomb raider, sparking a discussion on the ethics and history of the trade, though Hu initially declines based on moral grounds.",
+          "original_text": "\"It would be a pity for someone with your talents not to be a tomb raider.\" I shook my head and said, \"I have no intention of engaging in such immoral activities.\" Big Gold Tooth acknowledged that the risks were indeed real, but with a few black donkey hooves, one need not fear. If we were to trace the history of grave robbing, it would span over three thousand years. Before liberation, the trade was divided into four schools of thought: east, south, west, and north.",
+          "characters": [
+            "Hu Bayi",
+            "Big Gold Tooth"
+          ],
+          "emotion_tags": [
+            "reluctance",
+            "persuasion",
+            "serious"
+          ],
+          "function": "call_to_adventure"
+        },
+        {
+          "scene_id": "4",
+          "chapter": "v01_ch016",
+          "brief": "Big Gold Tooth offers to help sell any treasures they find, and Fatty has him appraise a mysterious jade pendant with a military backstory.",
+          "original_text": "Big Gold Tooth sighed for a while, then turned to us and said, \"I've been dealing in Panjiayuan for many years. If you two ever come across any treasures, I can help you find buyers.\" Fatty, who had been preoccupied with eating and drinking, was nearly full when he suddenly remembered something. He took out a piece of jade he had on him and asked Big Gold Tooth to appraise it, to see how much it might be worth. Big Gold Tooth examined it, sniffed it a few times, and said, \"Fat Master, this is a fine piece of jade, at least a thousand years old, perhaps even dating back to before the Tang Dynasty.\"",
+          "characters": [
+            "Fatty",
+            "Big Gold Tooth",
+            "Hu Bayi"
+          ],
+          "emotion_tags": [
+            "curiosity",
+            "anticipation",
+            "business"
+          ],
+          "function": "setup"
+        },
+        {
+          "scene_id": "5",
+          "chapter": "v01_ch016",
+          "brief": "As the night ends, Big Gold Tooth cements their new alliance by gifting Hu and Fatty amulets made from pangolin claws.",
+          "original_text": "We continued drinking until past midnight before parting ways. As we said our farewells, Big Gold Tooth gave each of us a hook-shaped object. It was over an inch long, jet black and shiny, exceedingly hard, and bore two characters in seal script that looked like 'touch gold.' Big Gold Tooth said, \"It's like we've been brothers from the first meeting. These amulets are made from pangolin claws.\"",
+          "characters": [
+            "Hu Bayi",
+            "Fatty",
+            "Big Gold Tooth"
+          ],
+          "emotion_tags": [
+            "camaraderie",
+            "warm",
+            "hopeful"
+          ],
+          "function": "bonding"
+        }
+      ]
+    },
+    {
+      "chapter_id": "v01_ch017",
+      "chapter_title": "Chapter 17: The Plan",
+      "volume_name": "Jingjue Ancient City",
+      "scenes": [
+        {
+          "scene_id": "1",
+          "chapter": "v01_ch017",
+          "brief": "Hu Bayi wakes up and reflects on his financial situation, realizing he needs money to support the families of his fallen comrades.",
+          "original_text": "Upon waking, as I lay in bed gazing at the low, squat ceiling, my thoughts were many. My parents were state-supported; I had no familial burdens to shoulder. If I was fed, the whole family was content. But what of my brothers who had fallen on the battlefield? The meager consolation money they received was hardly enough to fend off the biting northwest winds.",
+          "characters": [
+            "I (Hu Bayi)",
+            "Fatty"
+          ],
+          "emotion_tags": [
+            "angst",
+            "reflective",
+            "determination"
+          ],
+          "function": "internal_conflict"
+        },
+        {
+          "scene_id": "2",
+          "chapter": "v01_ch017",
+          "brief": "Fatty and Hu Bayi discuss Big Gold Tooth's motives and agree to enter the tomb raiding business together.",
+          "original_text": "Fatty woke up too, rubbing his eyes. Seeing me staring blankly at the ceiling, he said, \"Old Hu, I know what you're thinking without you saying it. The words of Big Gold Tooth yesterday stirred your heart, didn't they? I'm itching to act too. Just waiting on your word, brother.\"",
+          "characters": [
+            "I (Hu Bayi)",
+            "Fatty",
+            "Big Gold Tooth"
+          ],
+          "emotion_tags": [
+            "camaraderie",
+            "suspense"
+          ],
+          "function": "decision"
+        },
+        {
+          "scene_id": "3",
+          "chapter": "v01_ch017",
+          "brief": "Hu Bayi justifies tomb raiding as wealth redistribution and recalls the strict rule of lighting a candle in the southeast corner.",
+          "original_text": "Appropriated from the populace, they should rightfully be used for the people's benefit. How could we let them eternally accompany dry bones sleeping underground? Tomb raiders at work would always light a candle and place it in the southeast corner whenever they opened a large tomb and entered its underground chamber. During this process, if the candle in the southeast corner were to extinguish, one must return the acquired wealth to its original place, bow respectfully three times, and retreat along the same path they came.",
+          "characters": [
+            "I (Hu Bayi)",
+            "Fatty",
+            "Grandfather"
+          ],
+          "emotion_tags": [
+            "solemn",
+            "mysterious"
+          ],
+          "function": "world_building"
+        },
+        {
+          "scene_id": "4",
+          "chapter": "v01_ch017",
+          "brief": "They decide to return to Ox Heart Mountain to raid a likely Tang Dynasty tomb and collect antiques from villagers.",
+          "original_text": "The best option would be to head for the deep mountains and old forests, where few people ventured. Speaking of large tombs I've encountered in deep mountains and old forests, the one on Ox Heart Mountain undoubtedly tops the list. I told him, firstly, there are no such things as ghosts in this world. Secondly, this is our first operation, and it's not absolutely necessary to start excavating mountains. Do you remember how many families in the village have antiques?",
+          "characters": [
+            "I (Hu Bayi)",
+            "Fatty"
+          ],
+          "emotion_tags": [
+            "hope",
+            "planning"
+          ],
+          "function": "planning"
+        },
+        {
+          "scene_id": "5",
+          "chapter": "v01_ch017",
+          "brief": "Hu Bayi purchases essential equipment, including two German sapper shovels, and they board a train back to the village.",
+          "original_text": "That very day, we each prepared separately. Fatty went to dispose of the remaining cassette tapes, while I headed to the second-hand market to buy some essential tools: a flashlight, gloves, a face mask, candles, rope, a water bottle. What thrilled me the most was finding two German-made sapper's shovels. Thankfully, Fatty had managed to sell off the cassette tapes and had also terminated the lease on our rented room and sold the tricycle, which just about covered our round-trip expenses. We bought train tickets overnight.",
+          "characters": [
+            "I (Hu Bayi)",
+            "Fatty"
+          ],
+          "emotion_tags": [
+            "excitement",
+            "anticipation"
+          ],
+          "function": "preparation"
+        }
+      ]
+    },
+    {
+      "chapter_id": "v01_ch018",
+      "chapter_title": "Chapter 18: Black Wind Pass Wildman Gully",
+      "volume_name": "Jingjue Ancient City",
+      "scenes": [
+        {
+          "scene_id": "1",
+          "chapter": "v01_ch018",
+          "brief": "Hu Bayi and Fatty sell a valuable watch to fund their trip to the village, only to learn that the Archaeological Team has already claimed the tomb at Ox Heart Mountain.",
+          "original_text": "I went to Panjiayuan and sold the watch to Big Gold Tooth, a guy who'd buy anything. They claimed it was the mausoleum of Empress Dowager Xiao of the Liao dynasty, and they confiscated all the valuable items from our homes, not leaving a single piece behind. Since then, the Archaeological Team hasn't done much with Ox Heart Mountain, saying there's still much more to unearth beneath it. Fatty and I nearly choked on our own blood when we heard these words. Yanzi's father hugged us both tightly, \"You two rascals, vanishing without a trace. This time, you're not leaving unless you stay for at least two or three years.\"",
+          "characters": [
+            "Hu Bayi",
+            "Fatty",
+            "Big Gold Tooth",
+            "Yanzi",
+            "Yanzi's father",
+            "Accountant",
+            "Old Branch Secretary"
+          ],
+          "emotion_tags": [
+            "nostalgia",
+            "frustration",
+            "disappointment",
+            "warm"
+          ],
+          "function": "backstory"
+        },
+        {
+          "scene_id": "2",
+          "chapter": "v01_ch018",
+          "brief": "Yanzi's father tells the group about the dangerous but treasure-filled Wildman Gully at Black Wind Pass, and they resolve to go with Yingzi as their guide.",
+          "original_text": "If you're seeking ancient tombs, there are none nearby other than at Ox Heart Mountain. There lies Wildman Gully, which is said to be filled with the graves of princes and nobles, rich with gold. However, that place is seldom visited by humans and is rumored to be haunted by wild men. Do you have the courage to go? Our resolve to go was firm, and not even Swallow's father could dissuade us. Swallow's father also recommended a guide to us, Yingzi.",
+          "characters": [
+            "Hu Bayi",
+            "Fatty",
+            "Yanzi's father",
+            "Yingzi"
+          ],
+          "emotion_tags": [
+            "suspense",
+            "determination",
+            "mystery"
+          ],
+          "function": "turning_point"
+        },
+        {
+          "scene_id": "3",
+          "chapter": "v01_ch018",
+          "brief": "The group treks through the primeval forest to Wildman Gully, where Hu Bayi uses Feng Shui techniques to identify the location of a noble's tomb.",
+          "original_text": "Moving forward, an endless expanse of primeval forest unfolds. I whispered a secret passage: \"At last, we've found the right place. There must be a noble's ancient tomb hidden in this valley.\" Wildman Gully, formerly known as Moon Cradling Ravine, is a place where the terrain exudes a stately and majestic presence, as if it could swallow the universe whole. Though the geomantic elegance of this place might not befit the burial of emperors, it's more than sufficient for princes and high-ranking generals. If Wildman Gully were not covered with a thick layer of dead leaves and rotting grass, we could easily find the central point.",
+          "characters": [
+            "Hu Bayi",
+            "Fatty",
+            "Yingzi"
+          ],
+          "emotion_tags": [
+            "awe",
+            "hope",
+            "curiosity"
+          ],
+          "function": "slice_of_life"
+        },
+        {
+          "scene_id": "4",
+          "chapter": "v01_ch018",
+          "brief": "A mysterious creature attacks the camp at night, killing the pony and dragging its intestines into a small hole, causing the group to suspect a dangerous subterranean beast.",
+          "original_text": "Upon reaching the tent, a gruesome scene unfolded before us. The pony tethered to the tree had been savagely mauled by some ferocious beast; its belly was torn open, its intestines spilled out onto the ground. Suddenly, I noticed the horse's intestines moving, not in a post-mortem reflex, but as if something was pulling them underground. Together, we pushed the horse's body aside, revealing a deep hole in the ground, hidden by the grass, with a diameter as wide as a small bucket. I was almost certain that the hole was not man-made but dug by some animal with sharp claws—a skilled burrower.",
+          "characters": [
+            "Hu Bayi",
+            "Fatty",
+            "Yingzi"
+          ],
+          "emotion_tags": [
+            "horror",
+            "suspense",
+            "fear"
+          ],
+          "function": "external_conflict"
+        },
+        {
+          "scene_id": "5",
+          "chapter": "v01_ch018",
+          "brief": "Yingzi finds corpses in shanties nearby, which Hu Bayi identifies as lost Japanese soldiers from the Kwantung Army, solving the mystery of the 'Wild Men'.",
+          "original_text": "Yingzi's face was pale, and she was panting heavily, \"Oh my goodness, it scared me to death. I stumbled upon some shanties up ahead.\" We clambered into one of the shanties to find numerous animal hides and, in a corner, indeed three corpses. At the sight of the knife, I understood. Damn it, the legendary Wild Men were actually these Japanese Devils. I found a notebook in a military rucksack. It was filled with Japanese writing—the pages yellowed, but the handwriting still legible.",
+          "characters": [
+            "Hu Bayi",
+            "Fatty",
+            "Yingzi"
+          ],
+          "emotion_tags": [
+            "shock",
+            "relief",
+            "grim"
+          ],
+          "function": "reveal_truth"
+        },
+        {
+          "scene_id": "6",
+          "chapter": "v01_ch018",
+          "brief": "The trio enters the ancient tomb, opens the coffin to find a well-preserved corpse with jade artifacts, but their candle mysteriously extinguishes.",
+          "original_text": "The coffin lid was securely nailed down, and it took several attempts before we managed to pry it open. A tall male corpse lay there, its bodily fluids long since evaporated, leaving only a soy-purple dried skin clinging to the skeleton. Fatty joined in with his tool, and together, with a concerted effort, we finally opened a large crack with the coffin creaking in protest. Fortunately, amidst my haphazard search, I found two jade bi discs in the hands of the ancient corpse. As I turned to leave, I suddenly noticed that the candle in the corner had silently snuffed out.",
+          "characters": [
+            "Hu Bayi",
+            "Fatty",
+            "Yingzi"
+          ],
+          "emotion_tags": [
+            "suspense",
+            "greed",
+            "tension"
+          ],
+          "function": "climax"
+        },
+        {
+          "scene_id": "7",
+          "chapter": "v01_ch018",
+          "brief": "The candle flame turns green, the tomb exit is blocked by the coffin lid, and the ancient corpse transforms into a Red-haired Corpse Monster that attacks them.",
+          "original_text": "The flame was emitting a strange, greenish glow, casting an eerie light on our faces that turned them a ghastly shade of green. Another loud crash followed as the coffin lid, which had been nailed back in place, was thrust so forcefully into the tomb wall that it embedded itself there, sealing the exit. Its once purple-hued, desiccated skin had, at some unknown point, sprouted a thick layer of red hair. It looked like a fiery red great ape, and with a shake of its arms, it leaped out of the coffin. With a joint cry, we swung our engineer soldier's shovels at the red-haired ancient corpse with all our might.",
+          "characters": [
+            "Hu Bayi",
+            "Fatty",
+            "Yingzi"
+          ],
+          "emotion_tags": [
+            "terror",
+            "panic",
+            "action"
+          ],
+          "function": "climax"
+        },
+        {
+          "scene_id": "8",
+          "chapter": "v01_ch018",
+          "brief": "During the fight, they smash through a wall into a secret Japanese underground fortress and narrowly escape the monster by sealing a heavy iron door.",
+          "original_text": "Fatty and Yingzi, flanking the sides, hoisted the mace with four hands and swung it like a temple bell hammer, slamming it into the chest of the Red-haired Corpse Monster. The mace, thrown with tremendous force by the corpse fiend, had smashed a large hole in the wall of the back room. Following the beam of Yingzi's flashlight, we saw a red sign on the wall with bold letters: \"Black Wind Pass - Underground Gena Warehouse.\" Before I had time to take a closer look, the wall separating the ancient tomb's inner chamber and the fortress suddenly collapsed with a thunderous crash. The three of us dashed into the warehouse, gritting our teeth and using all our strength, finally managing to close the heavy iron door just before the corpse creature could get in.",
+          "characters": [
+            "Hu Bayi",
+            "Fatty",
+            "Yingzi"
+          ],
+          "emotion_tags": [
+            "desperation",
+            "relief",
+            "shock"
+          ],
+          "function": "turning_point"
+        },
+        {
+          "scene_id": "9",
+          "chapter": "v01_ch018",
+          "brief": "Safe inside the warehouse, Yingzi explains the creature is a Corpse Demon, and the group plans to scavenge for weapons to fight back.",
+          "original_text": "The warehouse was truly vast, with various supplies piled up like mountains. It turned out that the hillside to the west of Wildman Gully had been hollowed out to create an entire Underground Fortress. Yingzi recalled stories the elders in her clan used to tell... it's a Corpse Demon. During the burial rites, a piece of burnt talisman paper was placed in the deceased's mouth, and they held their most cherished possession in their hands. Let's go further in and see if there are any firearms or ammunition.",
+          "characters": [
+            "Hu Bayi",
+            "Fatty",
+            "Yingzi"
+          ],
+          "emotion_tags": [
+            "relief",
+            "determination",
+            "curiosity"
+          ],
+          "function": "resolution"
+        }
+      ]
+    },
+    {
+      "chapter_id": "v01_ch019",
+      "chapter_title": "Chapter 19: Kwantung Army Underground Fortress",
+      "volume_name": "Jingjue Ancient City",
+      "scenes": [
+        {
+          "scene_id": "1",
+          "chapter": "v01_ch019",
+          "brief": "The trio explores the vast underground fortress, studies a military map to understand the layout, and equips themselves with Type 100 submachine guns from the armory.",
+          "original_text": "Not far along, we spotted a map of the Fortress on the wall, which marked out major passageways, the Traffic Trench, storerooms, Soldier Concealment Caves, shower rooms, Barracks, rest areas, granaries, drainage pipes, and the power station among other auxiliary facilities. The sheer size of this secret Underground Fortress was beyond my imagination, stretching thirty kilometers in depth and over sixty kilometers in width at the front defenses. Finally, on the right side of the Gena Warehouse, I found the weapons storage. I pulled on the submachine gun's bolt and removed the magazine to examine it. \"This is likely a Japanese-made Type 100 submachine gun... You and Fatty should ditch the rifles and arm yourselves with a submachine gun for protection.\"",
+          "characters": [
+            "Old Hu",
+            "Fatty",
+            "Yingzi"
+          ],
+          "emotion_tags": [
+            "curiosity",
+            "preparation",
+            "relief"
+          ],
+          "function": "preparation"
+        },
+        {
+          "scene_id": "2",
+          "chapter": "v01_ch019",
+          "brief": "Yingzi claims to see a child running in the dark, spooking the group, but they push forward as Fatty recites a nostalgic poem to boost morale.",
+          "original_text": "Lost in my moment of pride, Yingzi suddenly tapped my shoulder and whispered, \"Hu Ge, I think I just saw a kid run past behind you.\" I asked Yingzi, \"What child? Have you scared yourself silly? Maybe your eyes are playing tricks on you.\" Although Yingzi was brave, being a girl from the mountains, she had a strong sense of feudal superstitious consciousness. Fatty picks up his Type 100 submachine gun, tucks several magazines into his belt, his expression resolute, and gestures forward: \"Comrades, victory lies ahead. Follow me.\"",
+          "characters": [
+            "Old Hu",
+            "Fatty",
+            "Yingzi"
+          ],
+          "emotion_tags": [
+            "suspense",
+            "unease",
+            "nostalgia"
+          ],
+          "function": "foreshadowing"
+        },
+        {
+          "scene_id": "3",
+          "chapter": "v01_ch019",
+          "brief": "Following the path the child took, the group falls into a cavern filled with giant carnivorous bats and engages in a desperate firefight to survive.",
+          "original_text": "We were in a vast stone chamber, half natural, half man-made, covered in green moss. The damp stone walls and ceiling were festooned with countless enormous bats, far larger than any ordinary bats we'd seen. I curled my finger around the trigger of my Type 100 submachine gun and opened fire on the approaching ghost bats. Thousands of ghost bats were now in tumult, these creatures of darkness terrified of fire and light. It turned out that Fatty, sensing the urgency of the situation, had reloaded and opened fire, saving my life.",
+          "characters": [
+            "Old Hu",
+            "Fatty",
+            "Yingzi"
+          ],
+          "emotion_tags": [
+            "horror",
+            "action",
+            "tense"
+          ],
+          "function": "external_conflict"
+        },
+        {
+          "scene_id": "4",
+          "chapter": "v01_ch019",
+          "brief": "After the battle, Hu discovers a mysterious child's handprint on his back, and they find a sealed iron door marked 'No Entry' where the ghostly child disappeared.",
+          "original_text": "Fatty also leaned in to inspect my back: \"You've been electrocuted? There's a black handprint on your back, but it's small, like that of a child.\" Fatty swore to the heavens, \"You all saw him run behind you... He ran inwards, I saw it clearly—a little boy, just a kid...\" Fatty pointed to a wall of the stone chamber, \"That little rascal ran right in here.\" After saying so, he used the butt of his gun to scrape away the moss and bat droppings on the wall, revealing a half-covered iron door, its surface mottled with rust and emblazoned with four striking characters in dark red paint: No Entry Allowed.",
+          "characters": [
+            "Old Hu",
+            "Fatty",
+            "Yingzi"
+          ],
+          "emotion_tags": [
+            "mystery",
+            "supernatural",
+            "fear"
+          ],
+          "function": "reveal_truth"
+        },
+        {
+          "scene_id": "5",
+          "chapter": "v01_ch019",
+          "brief": "Opening the secret chamber, they find a magnificent stone sarcophagus containing two perfectly preserved children filled with mercury, whom they decide to bring out for burial.",
+          "original_text": "We managed to move the slab aside, revealing a coffin of pure black beneath. Yingzi swept the beam of her flashlight along the edge of the giant coffin and screamed in shock, \"Oh my goodness, it's the children!\" At each end of the coffin stood a naked boy and girl, looking to be about five or six years old, lifelike in appearance. I told her, \"The bodies are filled with mercury; they can't be burnt away. All we can do is dig a grave and bury them, hoping the world will see fewer such tragedies.\"",
+          "characters": [
+            "Old Hu",
+            "Fatty",
+            "Yingzi",
+            "Boy and Girl Servants"
+          ],
+          "emotion_tags": [
+            "tragic",
+            "horror",
+            "empathy"
+          ],
+          "function": "discovery"
+        },
+        {
+          "scene_id": "6",
+          "chapter": "v01_ch019",
+          "brief": "While roasting bats for food in the warehouse, a Giant Ground Sloth appears from the ceiling, attracted by the meat, and attacks the group.",
+          "original_text": "Above us, at the juncture of firelight and darkness on the rooftop, emerged an enormous human face, twice the size of an ordinary person's. It was the Giant Ground Sloth, no doubt about it. Before she had finished speaking, the grassland sloth, unable to resist the tempting scent of the roasted bat meat, began to advance towards us step by step. Its hind limbs were thick and strong, and with one leap, it was upon Fatty, who seemed the meatiest, and thus its chosen first bite. Fatty... found the skewer used for roasting bats, grabbed it, and plunged it deep into the sloth's arm, blade sinking in up to the hilt.",
+          "characters": [
+            "Old Hu",
+            "Fatty",
+            "Yingzi",
+            "Giant Ground Sloth"
+          ],
+          "emotion_tags": [
+            "suspense",
+            "danger",
+            "action"
+          ],
+          "function": "external_conflict"
+        },
+        {
+          "scene_id": "7",
+          "chapter": "v01_ch019",
+          "brief": "Surrounded by sloths, the group opens the gate to the ancient tomb, causing the Corpse Demon to fight the sloths, allowing the trio to escape and seal the tomb with fire.",
+          "original_text": "Fatty spun around and pushed open the previously sealed iron gate; I took out the Black Donkey Hoof and hurled it outside. The Grassland behemoth... inadvertently knocked over the Corpse Demon... The small of the grassland behemoths was gruesomely decapitated by a Corpse Demon... Meanwhile, Yingzi and I mustered our last bit of strength to pull Fatty out of the shaft. ... bags of Western Region Fire Dragon Oil poured down, engulfing the entire tomb, including the two grassland sloths, in the fierce flames ignited by the oil.",
+          "characters": [
+            "Old Hu",
+            "Fatty",
+            "Yingzi",
+            "Giant Ground Sloth",
+            "Corpse Demon"
+          ],
+          "emotion_tags": [
+            "climax",
+            "panic",
+            "relief"
+          ],
+          "function": "climax"
+        }
+      ]
+    },
+    {
+      "chapter_id": "v01_ch020",
+      "chapter_title": "Chapter 20",
+      "volume_name": "Jingjue Ancient City",
+      "scenes": [
+        {
+          "scene_id": "1",
+          "chapter": "v01_ch020",
+          "brief": "The group watches from a hillside as their dogs and local mastiffs successfully hunt a massive wild boar that charged into the valley.",
+          "original_text": "Suddenly, a red pine snapped at the mouth of the valley, and a giant wild boar burst forth from behind the tree. Had it not been for the creature's lack of a long snout, I might have mistaken it for a young elephant. The tusks, along with its massive weight, were the boar's treasures for roaming the forest, offering both offense and defense. Behind the giant wild boar, the three giant mastiffs pursued at a steady pace. As the wild boar reached the apex of its jump, the largest of the three Tibetan Mastiffs also leaped powerfully, like a cannonball fired from its chamber, colliding with the Giant Wild Boar.",
+          "characters": [
+            "Old Hu",
+            "Fatty",
+            "Yingzi"
+          ],
+          "emotion_tags": [
+            "tension",
+            "excitement",
+            "relief"
+          ],
+          "function": "action"
+        },
+        {
+          "scene_id": "2",
+          "chapter": "v01_ch020",
+          "brief": "Old Hu buries the bodies of the two children found in the tomb, offering prayers for their souls and promising to burn paper money for them.",
+          "original_text": "So, I took the children out of the military greatcoat, rewrapped them neatly in two more coats, and laid them side by side in the pit. I clasped my hands in prayer and bowed twice: 'Young friends from ancient times, it's regrettable that you didn't live in a new society filled with civilization, democracy, and sunshine.' Life has its end, and one should not forget. After I return, I will burn more paper money for you, in the hope that you will reach the Western Pure Land of Ultimate Bliss soon. After saying this, I pushed the soil back into the pit with the help of the two large dogs.",
+          "characters": [
+            "Old Hu"
+          ],
+          "emotion_tags": [
+            "somber",
+            "respect",
+            "melancholy"
+          ],
+          "function": "ritual"
+        },
+        {
+          "scene_id": "3",
+          "chapter": "v01_ch020",
+          "brief": "Back at camp, Fatty and Old Hu examine the jade bi discs they retrieved, noticing that the jade's color has mysteriously changed.",
+          "original_text": "Fatty held the jade bi up to my face, his expression full of astonishment, 'Old Hu, are these the ones we took from the ancient tomb? Take a look, is there something off about them?' I took the jade bi and scrutinized them. Both jade pieces were carved into shapes resembling moths, with every detail vividly present, as if they were alive. It was truly puzzling. I remembered when we first retrieved them from the ancient tomb's coffin, the jade bi were a deep green.",
+          "characters": [
+            "Old Hu",
+            "Fatty"
+          ],
+          "emotion_tags": [
+            "curiosity",
+            "confusion"
+          ],
+          "function": "foreshadowing"
+        },
+        {
+          "scene_id": "4",
+          "chapter": "v01_ch020",
+          "brief": "The villagers arrive at Wildman Gully, and Old Hu takes charge of organizing the excavation of the Kwantung Army's fortress.",
+          "original_text": "At last, the villagers arrived—over forty in number, led by the Branch Secretary and the accountant. Everyone was eager to start, but I suggested that after their arduous journey, we should rest for a day to regain our strength before beginning work. Having served as a combat engineer, I volunteered to take charge, planning to distribute tasks and utilize operational research to devise a plan. The Branch Secretary bellowed for silence: 'Listen to my nephew here. What he says is what I say, and that's the word from the organization.'",
+          "characters": [
+            "Old Hu",
+            "Branch Secretary",
+            "Accountant",
+            "Fatty",
+            "Yingzi"
+          ],
+          "emotion_tags": [
+            "hopeful",
+            "orderly"
+          ],
+          "function": "plot_progression"
+        },
+        {
+          "scene_id": "5",
+          "chapter": "v01_ch020",
+          "brief": "A sudden, violent hailstorm hits the camp, causing chaos and resulting in three women going missing in the confusion.",
+          "original_text": "Suddenly, from nowhere, a dark cloud drifted over, and with a flash of lightning, a sudden hailstorm descended upon us. Everyone was thrown into disarray, scrambling for the shelter of tents near the mouth of the valley to escape the pelting ice. Upon returning to the camp, the accountant took a headcount and found that we were short by three people. The accountant came to report to the Branch Secretary and me, 'Uncle, the three missing are Bai Ling, Gui Lan, those two girls, and Old Wang's second daughter-in-law.' I replied, 'I'll take four or five people who are nimble and used to walking the mountain paths to start a search.'",
+          "characters": [
+            "Old Hu",
+            "Branch Secretary",
+            "Accountant",
+            "Fatty"
+          ],
+          "emotion_tags": [
+            "panic",
+            "worry"
+          ],
+          "function": "crisis"
+        },
+        {
+          "scene_id": "6",
+          "chapter": "v01_ch020",
+          "brief": "Old Hu's search party finds the missing women in a strange part of the forest, where they claim to have seen ghosts.",
+          "original_text": "I released the hunting dog, and it darted out like an arrow, with all of us following closely behind. Underneath a large pine tree, we found three missing women. The girls, Bai Ling and Gui Lan, were holding onto the second daughter-in-law of the Wang family, at a loss of what to do. Bai Ling told me, 'Brother Hu, then you guys came along. It scared us to death. It's broad daylight, and we saw ghosts.'",
+          "characters": [
+            "Old Hu",
+            "Fatty",
+            "Bai Ling",
+            "Gui Lan",
+            "Old Wang's second daughter-in-law"
+          ],
+          "emotion_tags": [
+            "fear",
+            "suspense"
+          ],
+          "function": "mystery"
+        },
+        {
+          "scene_id": "7",
+          "chapter": "v01_ch020",
+          "brief": "Investigating the spot where the women saw 'ghosts', Fatty trips over a bone, leading to the discovery of a shallow mass grave of laborers.",
+          "original_text": "Not far along, Fatty tripped and fell flat on his face. Cursing, he got up, thinking he had stumbled over a tree root, but a touch revealed it felt unlike one. Bringing it closer for inspection, he instantly dropped it in shock, exclaiming, 'My God, a human thigh!' I sent two men to escort Bai Ling and her sisters back, then led the remaining few to dig up the soil with the butt of our hunting rifles. We didn't have to dig far before uncovering a mass of human bones.",
+          "characters": [
+            "Old Hu",
+            "Fatty"
+          ],
+          "emotion_tags": [
+            "horror",
+            "shock"
+          ],
+          "function": "reveal_truth"
+        },
+        {
+          "scene_id": "8",
+          "chapter": "v01_ch020",
+          "brief": "Old Hu identifies a sinister feng shui formation of dead locust trees trapping the spirits and leads the group to burn the trees to free the souls.",
+          "original_text": "I quickly surveyed the locust trees in the vicinity—all dead, seven in total, arranged in the pattern of the Big Dipper's sweeping tail. According to the Sixteen-Character Yin-Yang Feng Shui Secret Technique, one of the sixteen characters strictly prohibits the presence of dead locust, willow, or poplar trees around a grave. I explained the situation to the Branch Secretary, urging that we cut down these dead locust trees at once. In the time it took to finish a meal, all seven ancient locusts were felled. Flames soared high, and the dry wood crackled strangely, emitting plumes of black smoke.",
+          "characters": [
+            "Old Hu",
+            "Branch Secretary",
+            "Fatty",
+            "Yingzi"
+          ],
+          "emotion_tags": [
+            "solemn",
+            "determined"
+          ],
+          "function": "resolution"
+        },
+        {
+          "scene_id": "9",
+          "chapter": "v01_ch020",
+          "brief": "The group breaks into the underground fortress, discovering immense stockpiles of Japanese weapons and supplies, which they begin to transport.",
+          "original_text": "At the iron doors of the Gena Warehouse, the signs of a struggle were evident. Inside, we were all dumbstruck: row upon row of artillery pieces, like mountain guns, field howitzers, Type 60 Cannons, mortars of various sizes, and ammunition boxes piled up like mountains. The supplies from the Underground Fortress took an entire day to move, and we had barely scratched the surface. At dinner, the Branch Secretary approached me with a concern. He suggested burying the entrance to the Fortress and having everyone return to the village, to resume the work the following spring.",
+          "characters": [
+            "Old Hu",
+            "Fatty",
+            "Branch Secretary",
+            "Yingzi"
+          ],
+          "emotion_tags": [
+            "awe",
+            "satisfaction"
+          ],
+          "function": "discovery"
+        },
+        {
+          "scene_id": "10",
+          "chapter": "v01_ch020",
+          "brief": "Upon returning to the village, the group is devastated to learn that a landslide at the Ox Heart Mountain archaeological site has killed the team, including relatives of the villagers.",
+          "original_text": "Stepping outside, we saw the Branch Secretary going from door to door, banging on them and calling people out: 'This is terrible! There's been a landslide on Ox Heart Mountain, and the archaeological team is trapped inside.' It turned out that within the ancient tomb's underground palace on Ox Heart Mountain, layer upon layer was revealed. Eleven members of the archaeological team who were inside clearing the tomb master's coffin were buried within. The leaders from the banner arrived and, seeing the situation, knew there was no hope.",
+          "characters": [
+            "Old Hu",
+            "Fatty",
+            "Branch Secretary"
+          ],
+          "emotion_tags": [
+            "tragic",
+            "despair"
+          ],
+          "function": "turning_point"
+        },
+        {
+          "scene_id": "11",
+          "chapter": "v01_ch020",
+          "brief": "Old Hu and Fatty return to Beijing and meet Big Gold Tooth to have their jade bi appraised.",
+          "original_text": "Upon disembarking from the train, we didn't go anywhere else but headed straight for Panjiayuan. Big Gold Tooth was just as before, insufferably vulgar with a mercenary air about him. The moment Big Gold Tooth spotted us, he quickly set aside his business and bombarded us with questions. Big Gold Tooth quickly signaled to us with his eyes, hinting not to take out the items: 'Let's head to Dongsi instead. That restaurant where we had the mutton hotpot last time is quite nice and quiet.'",
+          "characters": [
+            "Old Hu",
+            "Fatty",
+            "Big Gold Tooth"
+          ],
+          "emotion_tags": [
+            "relief",
+            "anticipation"
+          ],
+          "function": "slice_of_life"
+        },
+        {
+          "scene_id": "12",
+          "chapter": "v01_ch020",
+          "brief": "Big Gold Tooth identifies the artifact as a 'Moth-bodied Chi-patterned Double Dagger-shaped Bi' worth a significant sum, and they discuss future tomb raiding plans.",
+          "original_text": "I then asked Fatty to take out the jade bi and show it to Big Gold Tooth. Big Gold Tooth examined it meticulously, occasionally bringing it to his nose to sniff and even licking it with his tongue. 'It's called a moth-bodied, chi-patterned, double dagger-shaped bi,' he explained. 'For these two burial objects, I'll give you a baseline estimate. Based solely on their own merit, they would be valued between forty and fifty thousand yuan in the domestic market.'",
+          "characters": [
+            "Old Hu",
+            "Fatty",
+            "Big Gold Tooth"
+          ],
+          "emotion_tags": [
+            "enlightenment",
+            "excitement"
+          ],
+          "function": "exposition"
+        }
+      ]
+    }
+  ]
+}

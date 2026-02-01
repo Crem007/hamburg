@@ -1,0 +1,40 @@
+{
+  "novel_name": "Ghost Blows Out the Light II",
+  "world_summary": "The story traverses 20th-century China, from the Qing Dynasty's decline and warlord chaos into the austere communist era and post-Cultural Revolution economic reforms. It follows a group of explorers, many with military backgrounds, as they uncover ancient, supernatural mysteries in desolate graveyards, remote mountainous regions, and vast underground fortresses. The narrative blends historical turmoil, desperate poverty, and military discipline with thrilling tomb-raiding adventures, revealing vanished civilizations, powerful relics, and chilling encounters with the undead, all set against a backdrop of geopolitical tension and the enduring enigma of life and death.",
+  "era_label": "Early to mid-20th century Republican and Communist China, with deep historical roots into ancient Chinese dynasties (Zhou, Qin, Han, Tang, Song, Liao, Jin, Yuan, Ming, Qing) for tomb architecture and artifacts.",
+  "region_style": "A vast and diverse Chinese landscape encompassing declining urban centers with traditional hutongs, remote mountainous frontiers near Inner and Outer Mongolia, high-altitude perennially frozen desert plateaus (Kunlun Mountains), dense primitive forests, and expansive underground cavern systems with volcanic activity.",
+  "tech_level": "The contemporary setting (early to mid-20th century) features mid-20th century military technology (semi-automatic rifles, grenades, armored personnel carriers, artillery) and early consumer electronics (cassette tapes, tape recorders). Civilian life uses basic transport (donkey carts, trains, tricycles) and tools. Ancient tombs, however, contain pre-industrial cold weapons, intricate craftsmanship, and mystical defense mechanisms.",
+  "social_structure": "A complex layering from military hierarchies (PLA, warlords, security teams) and communist party cadres (Branch Secretaries, Neighbourhood Committees) to an emerging class of entrepreneurs and antique dealers. Older social structures include noble houses, landlords, and traditional roles like hunters, fortune-tellers, and craftsmen. A distinct subculture of professional 'tomb raiders' (Mojin) with their own ethics exists, alongside commoners, beggars, and those ostracized by poverty or political shifts. Ancient imperial structures (emperors, princes, generals, sacrificial servants) are primarily observed through archaeological finds.",
+  "typical_locales": [
+    "Dilapidated Traditional Courtyard Home: Once grand, now showing signs of decay, with multiple rooms and courtyards, possibly including a 'kang' (heated bed-platform) and an opium den.",
+    "Desolate Graveyard: Wild, neglected areas with scattered tomb mounds, solitary graves, and eerie phosphorescent fires.",
+    "Remote Mountain Village: Isolated settlements with thatched huts or simple houses, traditional 'kang' beds, and unpaved roads, surrounded by patch-worked fields and dense wilderness.",
+    "Vast Primitive Mountain Forest: Endless, rolling mountains covered in dense red pine, larch, birch, and poplar trees, with thick layers of fallen leaves, icy streams, and hidden dangers.",
+    "High-Altitude Frozen Plateau: The majestic Kunlun Mountains, characterized by silver-gray metamorphic rock, snow-covered peaks, glacial formations, and the surreal Non-freezing Spring.",
+    "Underground Military Fortress/Warehouse: Labyrinthine, multi-level complexes with high arched ceilings, cement floors, heavy iron doors, ventilation shafts, and military supplies.",
+    "Ancient Underground Tomb Chambers: Ornate, sometimes booby-trapped, subterranean spaces with bas-relief murals, coffins (including elaborate lacquered or stone ones), skeletal remains, and ancient artifacts.",
+    "Massive Underground Lake/River System: Dark, cavernous waterways fed by waterfalls, with hot, sulfurous waters, active volcanic fissures, and strange, sightless aquatic life.",
+    "Bustling Antique Market (Panjiayuan): An open-air market street in Beijing, crowded with vendors selling a diverse array of vintage items, antiques, and emerging consumer goods like cassette tapes."
+  ],
+  "wardrobe_guide": {
+    "noblewoman": "Opulent 'cloud-patterned robes' of silk or brocade, adorned with elaborate 'phoenix crowns' and auspicious red silk for brides, often with heavily powdered faces and rouge.",
+    "young_general": "Crisp, clean olive drab military uniform, possibly with rank insignia, reflecting discipline and authority. Practical but well-maintained, potentially including a greatcoat.",
+    "soldiers": "Practical, sturdy, layered green or khaki military uniforms, designed for extreme cold and rugged high-altitude terrain. Includes heavy coats/greatcoats, fur hats, scarves, gloves, and durable boots, often worn with armed belts and carrying gear.",
+    "imperial_officials": "Ornate robes, possibly with specific patterns or colors indicating rank, from fine silks and brocades, elaborate headwear.",
+    "commoners": "Worn, patched, earth-toned or drab civilian clothes, often simple cotton or linen. Farmers might wear coarse fabrics, while urban commoners might have slightly more varied, but still utilitarian, attire. Can range from respectable to threadbare."
+  },
+  "color_and_mood": "The overall palette is dominated by muted earth tones, grays, and browns (poverty, urban grit, natural landscapes), contrasting sharply with stark whites (snow, paper effigies, bones) and deep blacks (underground darkness, evil auras). Military green is prevalent for uniforms. Vibrant reds appear as accents (blood, fiery symbols, auspicious silks, lava glow), alongside eerie blues (supernatural flames, deep glacier ice, reflecting moonlight). The mood shifts from bleak desperation and melancholy to austere military discipline, punctuated by intense suspense, terrifying supernatural dread, and chaotic action. There's an underlying current of historical nostalgia and adventurous determination.",
+  "visual_motifs": [
+    "Blue Fireballs / Luminescent Beetles: Mysterious, glowing, often hostile entities, representing supernatural danger.",
+    "Engineer Soldier's Shovel: A versatile, sturdy tool symbolizing resourcefulness, excavation, and manual labor.",
+    "Military Uniforms (especially green or khaki greatcoats/steel helmets): Represents discipline, authority, sacrifice, and the pervasive influence of military life.",
+    "Opium Pipe & Drifting Smoke: Symbolizes escapism, addiction, and moral decay in early 20th-century settings.",
+    "Ancient Jade Pendants / Bi Discs: Relics of hidden wealth, mystery, and connection to vanished civilizations.",
+    "Colossal Underground Architectures (Demon Tower, Fortress): Represents ancient power, forgotten history, and overwhelming, sometimes malevolent, structures.",
+    "Black Donkey Hooves: Amulets or protective items against evil and supernatural forces.",
+    "Vermillion Lacquered Coffins / Mercury-Preserved Corpses: Visual cues for ancient burial practices, death, and lingering supernatural presence.",
+    "Silver Dollars / Cassette Tapes: Represent shifting economies and cultural transitions across different eras.",
+    "Rolling Mountains & Primitive Forests: The omnipresent, powerful, and often dangerous natural environment."
+  ],
+  "global_style": "A gritty, realistic visual style with occasional surreal and fantastical elements. Emphasize historical accuracy for period-specific elements, contrasted with the grotesque and awe-inspiring nature of the supernatural and ancient discoveries. Use dramatic lighting to convey mood, especially deep shadows and sudden flashes of light or color in subterranean environments. Aim for a blend of historical drama, adventure, and horror, with a strong sense of place and atmosphere."
+}

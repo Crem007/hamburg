@@ -1,0 +1,518 @@
+[
+  {
+    "novel_name": "Ghost Blows Out the Light II",
+    "character_name": "Hu Bayi",
+    "aliases": [
+      "Brother",
+      "Brother Hu",
+      "Company Commander",
+      "Comrade Little Hu",
+      "Hu Bayi",
+      "Hu Ge",
+      "Hu Jianjun",
+      "I",
+      "Little Hutong Zhi",
+      "Master Hu",
+      "Old Hu",
+      "Old Hutong Spirit",
+      "little Hu",
+      "me",
+      "my",
+      "nephew"
+    ],
+    "core_appearance": {
+      "age_range": "Early twenties",
+      "body_type": "Robust, athletic build",
+      "face": "Strong, resolute expression",
+      "hair": "Short, dark hair"
+    },
+    "baseline_outfit": {
+      "style": "Military uniform",
+      "materials": "Standard issue military fabric",
+      "colours": "Olive green, khaki"
+    },
+    "temperament_baseline": [
+      "Adventurous",
+      "Resourceful and decisive in combat",
+      "Loyal and self-sacrificing",
+      "Empathetic and intuitive",
+      "Witty and adaptable",
+      "Strategically cautious (due to past trauma)",
+      "Haunted by past, seeking distraction"
+    ],
+    "scene_variants": [
+      {
+        "context": "In extreme cold, facing danger",
+        "changes": "Wears extensive protective clothing including military greatcoats, fur hats, scarves, gloves, and face coverings."
+      },
+      {
+        "context": "Physically exhausted in harsh conditions",
+        "changes": "Clad only in thin clothes, having lost coats and hats."
+      },
+      {
+        "context": "Grief-stricken in hospital",
+        "changes": "Expresses deep emotional pain and carries the weight of loss."
+      },
+      {
+        "context": "Enraged in combat",
+        "changes": "Prone to intense rage, capable of extreme violence and disregard for military discipline."
+      },
+      {
+        "context": "Demobilized civilian, exploring antique markets",
+        "changes": "Wears civilian clothes, often practical attire for travel or work."
+      }
+    ],
+    "supporting_quotes": [
+      "I grabbed his arm, choking back tears: \"No, you're not even a Party member, why should you go? If anyone should, it should be me.\"",
+      "Thanks to my robust constitution, I eventually regained consciousness.",
+      "I recalled a passage from the tattered book left behind by my grandfather that I would peruse in my idle moments. This landscape was a prime example of Fengshui Treasure, with clear prospects in front and reliable support behind.",
+      "I quickly clamped the bayonet between my teeth and reached out with my right hand to catch the hand grenade. I used my big thumb to push off the safety cap, spat out the bayonet, and bit down on the pull ring.",
+      "If I sit still in one place, I can't think of anything else—all I see are my deceased comrades-in-arms, haunting me. The sight of them nearly tears my guts apart. At least when we're running around busily with our small business, I can distract myself with other thoughts. Otherwise, I'd go mad.",
+      "I never used to believe in ghosts, until recently when I came to understand a truth: there's nothing in this world that can be said to definitely not exist."
+    ]
+  },
+  {
+    "novel_name": "Ghost Blows Out the Light II",
+    "character_name": "Wang Kaixuan",
+    "aliases": [
+      "A buddy of mine",
+      "Fat Master",
+      "Fatty",
+      "The big guy",
+      "big guy",
+      "he",
+      "him",
+      "tall man"
+    ],
+    "core_appearance": {
+      "age_range": "Young adult (late teens to early twenties)",
+      "body_type": "Tall, stocky, plumper, physically strong",
+      "face": "Paler complexion, likely rounder face",
+      "hair": "Practical, short dark hair"
+    },
+    "baseline_outfit": {
+      "style": "Functional, utilitarian, informal adventurer/former soldier attire",
+      "materials": "Durable fabrics like cotton or canvas, with a sturdy armed belt",
+      "colours": "Earthy tones, such as greens, browns, and greys"
+    },
+    "temperament_baseline": [
+      "Loyal and adventurous",
+      "Humorous and boisterous",
+      "Pragmatic and decisive",
+      "Instinctive and courageous (sometimes foolhardy)",
+      "Enjoys food and drink",
+      "Eager for treasure, materialistic",
+      "Boastful, especially about his firearm skills",
+      "Lacks formal knowledge, but street-smart"
+    ],
+    "scene_variants": [
+      {
+        "context": "In harsh, cold environments without proper gear",
+        "changes": "Clad only in thin clothes, lacking coats and hats; appearing weary from cold"
+      },
+      {
+        "context": "Injured in combat or incident",
+        "changes": "Sustaining visible injuries such as bleeding palms or burns, showing pain"
+      }
+    ],
+    "supporting_quotes": [
+      "A buddy of mine, Wang Kaixuan, who was paler and plumper than most, earning him the nickname 'Fatty,' decided to join me.",
+      "The tall man felt for Worker Liu's breath and, with a shake of his hand, despairingly uttered, 'It's over, he's not breathing.'",
+      "Seeing the dire situation, the tall man reached for the two Hand Grenades attached to his Armed Belt, ready to pull the pins and hurl them at the fireballs.",
+      "Fatty, who had been preoccupied with eating and drinking, was nearly full when he suddenly remembered something.",
+      "Apart from his fear of heights, he was truly fearless.",
+      "Fatty had been pampered by his father since childhood, playing with guns as soon as he could walk. By the time he was in junior high, he was already an expert in firearms."
+    ]
+  },
+  {
+    "novel_name": "Ghost Blows Out the Light II",
+    "character_name": "Luo Ning",
+    "aliases": [
+      "Geological prospector Luo Ning",
+      "Luo Ning",
+      "Luo the Worker",
+      "Surveyor Luo Ning",
+      "her",
+      "she"
+    ],
+    "core_appearance": {
+      "age_range": "Young adult to early middle age",
+      "body_type": "Average build, capable of physical exertion but prone to exhaustion under extreme stress",
+      "face": "Serious and often concerned expression, prone to paleness when frightened or distressed",
+      "hair": "Unspecified"
+    },
+    "baseline_outfit": {
+      "style": "Practical, rugged expedition attire suitable for geological surveying",
+      "materials": "Durable fabrics",
+      "colours": "Earthy and neutral tones"
+    },
+    "temperament_baseline": [
+      "Intelligent and analytical",
+      "Highly knowledgeable in geology, cartography, and extinct species",
+      "Emotionally sensitive and empathetic, prone to grief and distress",
+      "Quick-witted and intuitive, especially under pressure",
+      "Resourceful and observant",
+      "Caring and supportive towards companions",
+      "Prone to fear and panic in extreme, horrifying situations"
+    ],
+    "scene_variants": [],
+    "supporting_quotes": [
+      "Geological prospector Luo Ning, his colleague from the same unit, upon witnessing this tragic scene, could hardly restrain herself from bursting into loud sobs.",
+      "After a brief and brutal skirmish, of the ten of us from our squad—eight soldiers plus the Second Squad Leader and one instructor—only Big Guy, Little Wa, and I remained, along with two intellectuals, Worker Liu and Luo Ning.",
+      "Although Luo Ning mainly handled cartographic duties, she often worked with geological exploration teams and knew quite a bit about geology.",
+      "Luo Ning sprinkled Yunnan Baiyao from her first aid kit onto his wound, then wrapped it with a white bandage to stop the bleeding.",
+      "Luo Ning, who had already braced herself for death with eyes tightly shut, suddenly had a realization. She stood up abruptly, pulling us back, 'Listen to the roar of the water! We must be near an Underground River. Let's jump in!'",
+      "Suddenly, Luo Ning thought of something and, leaning against the rock wall, shouted at me, 'Comrade Little Hu, honor bullet!'"
+    ]
+  },
+  {
+    "novel_name": "Ghost Blows Out the Light II",
+    "character_name": "Old Hu",
+    "aliases": [
+      "I",
+      "Old Hu",
+      "brother",
+      "me",
+      "my"
+    ],
+    "core_appearance": {
+      "age_range": "early to mid-30s",
+      "body_type": "athletic, lean and capable, strong swimmer",
+      "face": "weathered, often stern or pensive, reflects past trauma and resolve",
+      "hair": "short, practical military cut (implied), dark"
+    },
+    "baseline_outfit": {
+      "style": "post-demobilization civilian casual, somewhat trendy for the era",
+      "materials": "denim bell-bottoms, casual shirts or jackets",
+      "colours": "muted blues, greys, and browns, often paired with sunglasses"
+    },
+    "temperament_baseline": [
+      "decisive",
+      "resolute",
+      "duty-bound",
+      "pragmatic",
+      "emotionally conflicted",
+      "thoughtful",
+      "impulsive",
+      "values authenticity",
+      "stern when necessary",
+      "initially awkward in civilian settings"
+    ],
+    "scene_variants": [
+      {
+        "context": "Active military service / combat",
+        "changes": "Full military uniform with insignia, focused and determined expression, alert and ready for action."
+      },
+      {
+        "context": "Post-avalanche, injured survival",
+        "changes": "Bruised, in pain, possibly bandaged or tattered clothing, but conscious and resolute."
+      },
+      {
+        "context": "Demobilized veteran, adjusting to civilian life",
+        "changes": "Military uniform (without insignia), appears uncomfortable and out of place in civilian settings, visibly affected by nightmares."
+      }
+    ],
+    "supporting_quotes": [
+      "Gritting my teeth, I raised my rifle and with three bursts, I brought down Xiao Lin, the Second Squad Leader, and Old Zhao, all of whom were still struggling painfully in the fire.",
+      "I had not yet freed myself from the torment of having shot my own comrades; their voices and smiles before death haunted my mind, blurring my consciousness.",
+      "I rebuked him, 'What were you doing earlier? Now that we've come this far, you're asking how much longer the red flag can be waved? Are you doubting whether our revolution can achieve final victory? You're already faltering at the first step of the Long March of Ten Thousand Miles. Bite the bullet and hold on.'",
+      "After ten years of military service, sweating blood, facing life and death",
+      "Each of us sporting a pair of sunglasses and dressed in bell-bottoms, we pushed a tricycle down the streets of Beijing.",
+      "My life was bought at the price of many comrades-in-arms. It was time I did something for them."
+    ]
+  },
+  {
+    "novel_name": "Ghost Blows Out the Light II",
+    "character_name": "Fatty",
+    "aliases": [
+      "Comrade Fatty",
+      "Little Fatty",
+      "Fat Master",
+      "Brother"
+    ],
+    "core_appearance": {
+      "age_range": "Early to mid-twenties",
+      "body_type": "Stout, corpulent, noticeable belly",
+      "face": "Round, often with a mischievous grin",
+      "hair": "Not explicitly described, assume dark, short, common style for the era"
+    },
+    "baseline_outfit": {
+      "style": "Trendy, Western-influenced street vendor attire",
+      "materials": "Casual fabrics, denim-like for bell-bottoms",
+      "colours": "No specific colours mentioned, but generally reflecting the fashion trends of 1980s China for street vendors"
+    },
+    "temperament_baseline": [
+      "Mischievous and impulsive",
+      "Loyal and supportive",
+      "Resourceful and entrepreneurial",
+      "Materialistic and optimistic",
+      "Prone to agitation and quick-tempered",
+      "Gourmand"
+    ],
+    "scene_variants": [
+      {
+        "context": "As a young Educated Youth in the countryside",
+        "changes": "Simpler, utilitarian, possibly worn rural clothing; less fashion-conscious than his later street vendor attire."
+      }
+    ],
+    "supporting_quotes": [
+      "I saw a large, round, white shadow not far from it. It was a false alarm. It turned out Fatty had eaten some unclean fruit during the day, and his stomach was upset. He squatted there to relieve himself, and in the darkness, his white backside was all too conspicuous.",
+      "Fatty was relentless in demanding compensation from me, claiming that the previous night's scare had killed off over a million of his brain cells. [...] Fatty, with a mischievous grin, said that wouldn't be necessary.",
+      "Each of us sporting a pair of sunglasses and dressed in bell-bottoms, we pushed a tricycle down the streets of Beijing.",
+      "Seeing me staring blankly at the ceiling, he said, 'Old Hu, I know what you're thinking without you saying it. The words of Big Gold Tooth yesterday stirred your heart, didn't they? I'm itching to act too. Just waiting on your word, brother.'",
+      "Fatty, on the other hand, was brimming with confidence, betting that the Jade Bi could fetch at least thirty to fifty thousand yuan, or perhaps even be recognized as national treasures.",
+      "Fatty, uninterested in listening further, simply busied himself with the hotpot, sliding slices of beef tripe, lamb, chicken, and an assortment of vegetables and mushrooms into the simmering broth."
+    ]
+  },
+  {
+    "novel_name": "Ghost Blows Out the Light II",
+    "character_name": "Hu Guohua",
+    "aliases": [
+      "My grandfather",
+      "Sir",
+      "Young Master Hu",
+      "disciple",
+      "grandfather",
+      "he",
+      "him",
+      "his nephew",
+      "lad",
+      "poor wretch",
+      "the former Young Master Hu",
+      "walking corpse"
+    ],
+    "core_appearance": {
+      "age_range": "Late 20s to early 40s",
+      "body_type": "Slim and somewhat frail due to opium addiction",
+      "face": "Haggard features with sharp, intense eyes capable of blazing with fury",
+      "hair": "Dark, unkempt"
+    },
+    "baseline_outfit": {
+      "style": "Practical, somewhat worn traditional Chinese attire or a simple, utilitarian military-style uniform",
+      "materials": "Coarse cotton, linen, possibly leather accents",
+      "colours": "Muted earth tones, browns, greys, dark blues"
+    },
+    "temperament_baseline": [
+      "Imprudent",
+      "Addicted",
+      "Desperate",
+      "Pragmatic",
+      "Unscrupulous",
+      "Fiercely loyal (to those he bonds with)",
+      "Courageous",
+      "Fatalistic"
+    ],
+    "scene_variants": [
+      {
+        "context": "Profligate young master, before his decline",
+        "changes": "Younger, healthier, more arrogant expression, dressed in finer, well-kept traditional clothing"
+      },
+      {
+        "context": "Addicted and destitute",
+        "changes": "More gaunt, weaker, apathetic or intensely desperate expression, dressed in ragged, dirty clothes"
+      },
+      {
+        "context": "As a soldier or grave robber",
+        "changes": "More resolute and hardened expression, lean and sinewy physique, practical and worn military-style uniform or rugged work clothes"
+      }
+    ],
+    "supporting_quotes": [
+      "Yet, he refused to tread a prudent path, which, admittedly, was partly influenced by the societal milieu of the time. Initially, he succumbed to gambling and later developed an addiction to opium, squandering the great fortune until nothing was left.",
+      "Driven to madness by poverty, one's sense of decency and morals may no longer hold significance. Hu Guohua devised a scheme to con some money from his uncle.",
+      "His strength, sapped by his opium addiction, faltered after shifting just a bit of soil, leaving him gasping for breath.",
+      "If you can show such loyalty to a rat, how much more to your fellow man? I admire your sense of righteousness",
+      "Hu Guohua, having been a soldier and seen battle, had a courage far greater than before."
+    ]
+  },
+  {
+    "novel_name": "Ghost Blows Out the Light II",
+    "character_name": "Big Gold Tooth",
+    "aliases": [
+      "Big Gold Tooth",
+      "Big Thumb",
+      "Gentlemen",
+      "Lord Jin",
+      "a guy who'd buy anything",
+      "he",
+      "him",
+      "that grandson",
+      "the man with the Big Gold Tooth",
+      "this fellow"
+    ],
+    "core_appearance": {
+      "age_range": "Middle-aged to older",
+      "body_type": "Average build",
+      "face": "Often smiling, featuring a distinctive large gold tooth that he proudly displays.",
+      "hair": "Unspecified, likely short and practical."
+    },
+    "baseline_outfit": {
+      "style": "Practical and unassuming, typical of an experienced street antique vendor in Beijing.",
+      "materials": "Common, durable fabrics like cotton or linen.",
+      "colours": "Earthy tones, muted blues, or greys."
+    },
+    "temperament_baseline": [
+      "Cunning and shrewd",
+      "Profit-driven businessman",
+      "Knowledgeable and experienced expert in antiques",
+      "Hospitable, often with ulterior motives",
+      "Appreciative of specialized knowledge",
+      "Boastful of successful deals",
+      "Enjoys sharing his expertise"
+    ],
+    "scene_variants": [],
+    "supporting_quotes": [
+      "He came over to greet us with a smile, revealing a big gold tooth.",
+      "I acquired this gold tooth at Panjiayuan. It was dug up from a grave, a Pre-Ming Buddha Lang Gold, plucked right out of the mouth of a rice dumpling. I couldn't bear to sell it, so I had my own tooth pulled and replaced it with this one.",
+      "Big Gold Tooth kept pouring me drinks, and I thought to myself that this fellow was probably trying to get me drunk to pry some secrets from me.",
+      "Don't regard that grandson as any sort of saint... He's in business for profit, up with the sun for a reason.",
+      "Unassuming as he might seem, he was actually a seasoned and experienced expert in Panjiayuan.",
+      "Big Gold Tooth chuckled heartily, 'Fat Master is getting anxious. I admit I've been rambling a bit, but it's all with good intentions. I hope that both of you will learn more about the knowledge of antiques appraisal in the future.'"
+    ]
+  },
+  {
+    "novel_name": "Ghost Blows Out the Light II",
+    "character_name": "Yingzi",
+    "aliases": [
+      "Big sister",
+      "Girl",
+      "her",
+      "she",
+      "this young lady"
+    ],
+    "core_appearance": {
+      "age_range": "nineteen years old",
+      "body_type": "agile and lean, suited for an active hunter's life",
+      "face": "naturally handsome, with features capable of expressing strong emotions",
+      "ethnicity": "Oroqen"
+    },
+    "baseline_outfit": {
+      "style": "Practical traditional Oroqen hunter attire, designed for wilderness survival",
+      "materials": "Durable natural fabrics, furs, and leather",
+      "colours": "Earthy tones such as browns, greens, and grays for camouflage"
+    },
+    "temperament_baseline": [
+      "Fierce and strong-willed",
+      "Highly skilled and experienced hunter and sharpshooter",
+      "Deeply knowledgeable about the wilderness and animals",
+      "Resourceful and practical in survival situations",
+      "Brave but holds strong superstitious beliefs, easily frightened by supernatural phenomena",
+      "Commands respect and authority, even from seasoned individuals",
+      "Observant"
+    ],
+    "scene_variants": [
+      {
+        "context": "On expedition, dressed for active duty",
+        "changes": "Wearing practical military-style expedition attire, possibly in olive green or drab colors, appearing striking and ready for action."
+      },
+      {
+        "context": "Frightened by dead bodies or supernatural events",
+        "changes": "Complexion becomes pale, shows signs of distress and fear, may be panting heavily."
+      }
+    ],
+    "supporting_quotes": [
+      "At just nineteen, Yingzi, a rare member of the Oroqen ethnicity within the village, was an exceptional hunter among the younger generation.",
+      "Yingzi's temperament was far fiercer than that of a young swallow, as fiery as a hot pepper.",
+      "Even the dogs heeded her commands. Although I was accustomed to being a Company Commander, in her presence, I had to swallow my pride and become just another soldier.",
+      "Although Yingzi was brave, being a girl from the mountains, she had a strong sense of feudal superstitious consciousness. Now frightened, her complexion had changed.",
+      "Yingzi drew a short knife and cut off the Bat's ugly Head, its fleshless claws, and then proceeded to gut it, discarding the clumps of blue-grey intestines and the excess offal from the stomach of the pig-faced Large Bat. Finally, she carelessly skinned it.",
+      "Yingzi, naturally handsome, looked even more striking in the military attire."
+    ]
+  },
+  {
+    "novel_name": "Ghost Blows Out the Light II",
+    "character_name": "Narrator",
+    "aliases": [
+      "I",
+      "me",
+      "my",
+      "my boy"
+    ],
+    "core_appearance": {
+      "age_range": "Late teens to early twenties",
+      "body_type": "Lean and capable, typical of a young soldier",
+      "face": "Youthful, often displaying determination or curiosity",
+      "hair": "Short, practical military cut; dark hair"
+    },
+    "baseline_outfit": {
+      "style": "Standard military uniform, functional and sturdy",
+      "materials": "Thick cotton or canvas fabric",
+      "colours": "Olive green, various drab earthy tones"
+    },
+    "temperament_baseline": [
+      "Pragmatic",
+      "Adaptable",
+      "Action-oriented",
+      "Observant",
+      "Decisive",
+      "Resilient",
+      "Brave",
+      "Initially empathetic"
+    ],
+    "scene_variants": [
+      {
+        "context": "Suffering from severe altitude sickness in the Kunlun Mountains",
+        "changes": "Face appears purple, gaze blurry and unfocused, signs of physical distress."
+      },
+      {
+        "context": "Injured in combat",
+        "changes": "Signs of injury (e.g., bruising, scrapes), appearing disoriented or in pain, maintaining a determined expression."
+      }
+    ],
+    "supporting_quotes": [
+      "I wished to be in the Air Force—I heard the pilots get good meals.",
+      "I replied that I'd rather not return to work at a Government Agency; I preferred to stay with the troops on the ground, as office life wasn't for me.",
+      "However, that feeling dissipated after three months; that's when I truly understood how comfortable life as an Educated Youth in the mountains could be.",
+      "nearly everyone suffered severe altitude sickness. Everyone's face turned a shade of purple, their gazes blurry, as if illusions had taken hold in our eyes.",
+      "I signaled with my eyes, and the tall fellow and the little guy understood immediately, flanking the Tyrant Salamander from both sides. Our trio formed a pincer attack, ready for combat.",
+      "Cursing, I freed one hand to draw my bayonet, ready for a cornered beast's last stand—if I was to die, I would take the monster down with me."
+    ]
+  },
+  {
+    "novel_name": "Ghost Blows Out the Light II",
+    "character_name": "Gawa",
+    "aliases": [
+      "Gawa",
+      "Little Ga Wa",
+      "Little Wa",
+      "a Tibetan soldier named Gawa",
+      "him"
+    ],
+    "core_appearance": {
+      "age_range": "young adult (early 20s)",
+      "body_type": "athletic, lean and capable",
+      "face": "distinct Tibetan features, sharp eyes",
+      "hair": "short, practical dark hair"
+    },
+    "baseline_outfit": {
+      "style": "functional Tibetan military attire, suited for rugged terrain",
+      "materials": "durable fabrics like wool or thick cotton, utilitarian",
+      "colours": "earthy tones (greens, browns, grays), with dark blue or maroon accents"
+    },
+    "temperament_baseline": [
+      "eager to listen",
+      "highly observant",
+      "skilled marksman",
+      "quick-reflexed",
+      "brave and courageous",
+      "proactive",
+      "selfless"
+    ],
+    "scene_variants": [
+      {
+        "context": "incapacitated by river water",
+        "changes": "distended stomach, visibly uncomfortable, soaked clothing, disheveled appearance"
+      },
+      {
+        "context": "injured during critical escape",
+        "changes": "limping, struggling with movement, showing signs of pain or strain on face, possibly grimy"
+      }
+    ],
+    "supporting_quotes": [
+      "After opening his mouth several times without finding the words, he simply waved at me, which I took to mean, 'Go ahead, I'd like to listen too.'",
+      "Gawa, whose marksmanship was the most accurate among the small squad members, raised his rifle without aiming and fired three shots. Each bullet struck the center of a fireball.",
+      "Thanks to Gawa's quick reflexes, he stabbed the monstrous tongue with his bayonet.",
+      "At a loss for what to do next, Gawa tugged at my clothes and pointed upwards for us to look.",
+      "Just then, Gawa released the belt and pushed Luo Ning up from below"
+    ]
+  }
+]
